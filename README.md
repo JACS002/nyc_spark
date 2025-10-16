@@ -17,6 +17,14 @@ Se procesan, validan y analizan los datos mediante notebooks en Jupyter/Spark o 
 
 ---
 
+## 🎯 Objetivos de aprendizaje
+- Operar Spark en Jupyter para ingesta masiva y transformación ligera de Parquet.  
+- Diseñar un aterrizaje RAW y una OBT desnormalizada para analítica directa.  
+- Practicar un modelo alternativo al dimensional (One Big Table).  
+- Gestionar seguridad y reproducibilidad con Docker y variables de ambiente.  
+- Implementar controles de calidad, idempotencia y auditoría de cargas.
+
+
 ## 🏗️ Arquitectura general
 
 ```text
@@ -70,6 +78,14 @@ RUN_ID=P3_$(date +%Y%m%d_%H%M)
 | **03_construccion_obt.ipynb** | Construye `analytics.obt_trips` (derivadas, idempotencia). |
 | **04_validaciones_y_exploracion.ipynb** | Valida nulos, rangos, coherencia, conteos. |
 | **05_data_analysis.ipynb** | Responde 20 preguntas de negocio con `analytics.obt_trips`. |
+
+
+## 🗓️ Cobertura procesada
+
+La siguiente matriz resume la cobertura temporal y el estado de procesamiento por servicio.  
+Los resultados completos se documentan en el archivo CSV de evidencia:
+
+📄 **`evidence/matriz_cobertura.csv`**
 
 ## 📦 Diseño de esquemas
 
