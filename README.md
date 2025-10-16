@@ -121,20 +121,138 @@ Los resultados completos se documentan en el archivo CSV de evidencia:
 **Auditoría:**  
 Archivo `validacion_obt_quality_summary.csv` con métricas por servicio.
 
+---
 
-## 📊 Resultados analíticos (enero 2015)
+## 🧪 Análisis de resultados (2015–2025): síntesis
 
-| Indicador | Hallazgo |
-|------------|-----------|
-| **Top zonas pickup/dropoff** | Manhattan (UES, Midtown, Times Sq) dominan. |
-| **Ticket promedio** | \$15 (yellow), \$14.7 (green). |
-| **Tip promedio** | ~14% en tarjeta. |
-| **Duración p50/p90** | 10 / 22 min en Manhattan. |
-| **Velocidad promedio** | 12–13 mph, cae en hora pico. |
-| **RateCode top** | Standard, JFK, Newark. |
-| **Mix service** | 96% yellow en Manhattan, 70% green en Brooklyn. |
-| **Métodos de pago** | 60% tarjeta, 39% efectivo. |
-| **YoY** | Sin datos previos (solo enero 2015). |
+**Nota sobre visualización:**  
+El notebook imprime en pantalla solo las primeras 20 filas (`head(20)`), por lo que muchos ejemplos muestran meses iniciales de 2015.  
+Los resultados completos 2015–2025 están guardados como CSV en `evidence/analysis_05/`.
+
+---
+
+### 🔍 Hallazgos clave por tema
+
+#### (a) & (b) Zonas top de pickup/dropoff  
+**Archivos:** `a_top10_pickup_por_mes.csv`, `b_top10_dropoff_por_mes.csv`  
+Manhattan domina el volumen mensual con clústers estables: Upper East Side (N/S), Midtown Center, Times Sq/Theatre District, Union Sq, Murray Hill.  
+El patrón se repite en pickup y dropoff, consistente con zonas de alta densidad laboral y turística.
+
+---
+
+#### (c) Evolución mensual de `total_amount` y `tip_pct` por borough  
+**Archivo:** `c_evol_total_y_tip_por_borough.csv`  
+Manhattan concentra tickets promedio más estables y `tip_pct` mayores; Queens y Brooklyn muestran tickets más altos en trayectos largos (aeropuertos y viajes inter-borough).  
+EWR aparece con tickets muy altos y varianza en propinas (outliers por viajes largos y peajes).
+
+---
+
+#### (d) Ticket promedio por servicio y mes  
+**Archivo:** `d_ticket_promedio_por_service_mes.csv`  
+`Yellow > Green` de forma consistente. La brecha es estable y se amplifica en meses con mayor congestión o peajes.
+
+---
+
+#### (e) Picos por hora y día de semana  
+**Archivo:** `e_trips_por_hora_y_dow.csv`  
+Picos marcados en **commute** (AM: 8–10, PM: 17–20) y actividad nocturna de fin de semana.  
+El patrón es estable a lo largo de los años.
+
+---
+
+#### (f) p50/p90 de duración por borough  
+**Archivo:** `f_p50_p90_duracion_por_borough.csv`  
+Manhattan presenta p50 ≈ 10–11 min y p90 ≈ 25 min; Queens/Bronx exhiben p90 más altos por trayectos largos.
+
+---
+
+#### (g) Velocidad por franjas 06–09 y 17–20  
+**Archivo:** `g_speed_por_franja_y_borough.csv`  
+Manhattan cae a ~10–12 mph en horas pico; Queens mantiene velocidades más altas por tramos de autopistas.  
+Señal clara de congestión recurrente.
+
+---
+
+#### (h) Participación por método de pago y `tip_pct`  
+**Archivo:** `h_share_pago_y_tip.csv`  
+Tarjeta domina y presenta `tip_pct` significativamente mayor vs efectivo (donde la propina tiende a cero).  
+Aparece **Flex Fare** en años recientes con dinámica propia.
+
+---
+
+#### (i) Rate codes y su contribución a distancia/total  
+**Archivo:** `i_ratecode_dist_y_total.csv`  
+`Standard rate` concentra la mayor parte de distancia y total; **JFK** y **Newark** capturan parte relevante por viajes de aeropuerto (largos y con peajes).
+
+---
+
+#### (j) Mix yellow vs green por mes y borough  
+**Archivo:** `j_mix_service_por_mes_borough.csv`  
+Manhattan es abrumadoramente **yellow**, mientras Brooklyn/Queens muestran mayor **green** (especialmente en 2015–2016).  
+El mix refleja reglas operativas históricas.
+
+---
+
+#### (k) Top 20 flujos PU→DO  
+**Archivo:** `k_top20_flujos_pu_do.csv`  
+Flujos intra-Manhattan de alta densidad (p. ej., Upper East ↔ Midtown / Times Sq) y algunos nodos de transferencia (Penn Station / Times Sq).  
+El `AVG_TICKET` es moderado por ser distancias cortas.
+
+---
+
+#### (l) Pasajeros y ticket  
+**Archivo:** `l_dist_passenger_y_ticket.csv`  
+La moda es 1 pasajero. El ticket promedio crece suavemente hasta 3–4 pax y tiene outliers raros a recuentos atípicos (valores espurios conservados por trazabilidad).
+
+---
+
+#### (m) Impacto de peajes y congestión por zona  
+**Archivo:** `m_impacto_tolls_congestion_por_zona.csv`  
+Zonas de Manhattan muestran `congestion_surcharge` promedio alto; aeropuertos y Staten Island resaltan en `tolls_amount`.
+
+---
+
+#### (n) Proporción de viajes cortos vs largos  
+**Archivo:** `n_short_long_por_borough_mes.csv`  
+Manhattan concentra `SHORT < 1mi` y `MED < 5mi`; Queens y Bronx elevan `LONG ≥ 5mi` por geografía y aeropuertos.  
+Estacionalidad moderada.
+
+---
+
+#### (o) Diferencias por vendor  
+**Archivo:** `o_vendor_speed_y_duracion.csv`  
+**Curb** y **Creative Mobile** concentran la mayoría de viajes; pequeñas diferencias en `avg_speed` y duración, consistentes con mezcla territorial.
+
+---
+
+#### (p) Pago ↔ tip por hora  
+**Archivo:** `p_tip_por_pago_y_hora.csv`  
+Con tarjeta se observan propinas positivas y estables; con efectivo, cercanas a cero.  
+La estacionalidad horaria es suave.
+
+---
+
+#### (q) Zonas con p99 de duración/distancia altos  
+**Archivo:** `q_p99_outliers_por_zona.csv`  
+Outliers en **Staten Island**, **Far Rockaway / Rockaways** y **Coney Island / Marine Park**: distancias largas y/o vías lentas → potencial congestión o eventos.
+
+---
+
+#### (r) Yield por milla  
+**Archivo:** `r_yield_por_borough_y_hora.csv`  
+Yield más alto fuera de horas pico y en boroughs con menor congestión; en Manhattan cae durante 17–20.
+
+---
+
+#### (s) YoY volumen y ticket por servicio  
+**Archivo:** `s_yoy_vol_y_ticket_por_service.csv`  
+Desde 2016 ya hay comparables: se observan descensos YoY en **green** respecto a 2015, y variaciones moderadas en ticket (impacto de recargos, oferta, demanda).
+
+---
+
+#### (t) Días de alta congestión  
+**Archivo:** `t_impacto_congestion_dias_altos.csv`  
+Los días etiquetados como **ALTO_CONG** presentan `AVG_TOTAL` mayor que los días **NORMAL**, consistente con el efecto de congestión sobre el ticket.
 
 ---
 
