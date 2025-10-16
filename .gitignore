@@ -1,0 +1,8 @@
+# credenciales
+.env
+*.env.local
+secrets/*
+# data pesada
+data/
+.spark_tmp/
+.ipynb_checkpoints/

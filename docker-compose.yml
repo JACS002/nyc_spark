@@ -1,0 +1,41 @@
+version: "3.8"
+
+services:
+  pyspark-notebook:
+    image: jupyter/pyspark-notebook:latest
+    container_name: pyspark-notebook
+    ports:
+      - "8888:8888"   # Jupyter
+      - "4040:4040"   # Spark UI
+    env_file:
+      - ./.env
+    environment:
+      # Ajustes Spark/Jupyter; no ponemos credenciales aquí, vienen del .env
+      SPARK_LOCAL_IP: 0.0.0.0
+      PYSPARK_PYTHON: python
+      # Memoria desde .env si quieres, o fija valores:
+      # SPARK_DRIVER_MEMORY: ${SPARK_DRIVER_MEMORY:-4g}
+      # SPARK_EXECUTOR_MEMORY: ${SPARK_EXECUTOR_MEMORY:-4g}
+      # Variables de Snowflake pasan tal cual al contenedor
+      SNOWFLAKE_ACCOUNT: ${SNOWFLAKE_ACCOUNT}
+      SNOWFLAKE_USER: ${SNOWFLAKE_USER}
+      SNOWFLAKE_PASSWORD: ${SNOWFLAKE_PASSWORD}
+      SNOWFLAKE_ROLE: ${SNOWFLAKE_ROLE}
+      SNOWFLAKE_WAREHOUSE: ${SNOWFLAKE_WAREHOUSE}
+      SNOWFLAKE_DATABASE: ${SNOWFLAKE_DATABASE}
+      SNOWFLAKE_SCHEMA_RAW: ${SNOWFLAKE_SCHEMA_RAW}
+      SNOWFLAKE_SCHEMA_ANALYTICS: ${SNOWFLAKE_SCHEMA_ANALYTICS}
+      NYC_BASE_PATH: ${NYC_BASE_PATH}
+      YEARS: ${YEARS}
+      MONTHS: ${MONTHS}
+      SERVICES: ${SERVICES}
+      RUN_ID: ${RUN_ID}
+      CHUNK_GRANULARITY: ${CHUNK_GRANULARITY}
+      VALIDATE_BASIC: ${VALIDATE_BASIC}
+      JUPYTER_TOKEN: ${JUPYTER_TOKEN}
+    volumes:
+      - ./notebooks:/home/jovyan/work/notebooks
+      - ./evidence:/home/jovyan/work/evidence
+      - ./data:/home/jovyan/work/data
+    # Si usas arm64 (Mac M1/M2) y ves problemas con Java, puedes fijar plataforma:
+    # platform: linux/amd64
