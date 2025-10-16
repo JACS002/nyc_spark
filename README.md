@@ -31,7 +31,7 @@ Spark (Jupyter Notebook en contenedor)
    └── Validaciones y Análisis (Snowpark)
          ▼
          Snowflake.ANALYTICS.OBT_TRIPS
-
+```
 
 ## 🧰 Herramientas clave
 
@@ -59,6 +59,7 @@ SNOWFLAKE_SCHEMA_RAW=RAW
 SNOWFLAKE_SCHEMA_ANALYTICS=ANALYTICS
 PARQUET_PATH=/data/parquet
 RUN_ID=P3_$(date +%Y%m%d_%H%M)
+```
 
 ## 🧩 Notebooks y propósito
 
@@ -127,7 +128,7 @@ Archivo `validacion_obt_quality_summary.csv` con métricas por servicio.
 2. Levantar el entorno con Docker Compose:  
    ```bash
    docker compose up -d
-
+   ```
 3. Acceder a Jupyter: http://localhost:8888
 4. Ejecutar los notebooks en orden: 01 → 05
 5. Revisar los outputs en las carpetas: evidence/
