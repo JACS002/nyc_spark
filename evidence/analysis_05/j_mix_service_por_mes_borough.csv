@@ -15,3 +15,1985 @@ YEAR,MONTH,PU_BOROUGH,SERVICE,TRIPS,MIX
 2015,1,Staten Island,yellow,155,0.451895
 2015,1,Unknown,green,1409,0.006163
 2015,1,Unknown,yellow,227231,0.993837
+2015,2,Bronx,green,118472,0.915818
+2015,2,Bronx,yellow,10890,0.084182
+2015,2,Brooklyn,green,566054,0.684994
+2015,2,Brooklyn,yellow,260310,0.315006
+2015,2,EWR,green,11,0.051163
+2015,2,EWR,yellow,204,0.948837
+2015,2,Manhattan,green,445042,0.037999
+2015,2,Manhattan,yellow,11266830,0.962001
+2015,2,N/A,green,597,0.102454
+2015,2,N/A,yellow,5230,0.897546
+2015,2,Queens,green,420571,0.413944
+2015,2,Queens,yellow,595438,0.586056
+2015,2,Staten Island,green,255,0.689189
+2015,2,Staten Island,yellow,115,0.310811
+2015,2,Unknown,green,1332,0.005775
+2015,2,Unknown,yellow,229330,0.994225
+2015,3,Bronx,green,133441,0.915755
+2015,3,Bronx,yellow,12276,0.084245
+2015,3,Brooklyn,green,622968,0.686948
+2015,3,Brooklyn,yellow,283895,0.313052
+2015,3,EWR,green,7,0.030702
+2015,3,EWR,yellow,221,0.969298
+2015,3,Manhattan,green,482164,0.038579
+2015,3,Manhattan,yellow,12016068,0.961421
+2015,3,N/A,green,656,0.123308
+2015,3,N/A,yellow,4664,0.876692
+2015,3,Queens,green,454843,0.390436
+2015,3,Queens,yellow,710118,0.609564
+2015,3,Staten Island,green,272,0.520076
+2015,3,Staten Island,yellow,251,0.479924
+2015,3,Unknown,green,1443,0.006159
+2015,3,Unknown,yellow,232865,0.993841
+2015,4,Bronx,green,115713,0.923746
+2015,4,Bronx,yellow,9552,0.076254
+2015,4,Brooklyn,green,608295,0.696889
+2015,4,Brooklyn,yellow,264577,0.303111
+2015,4,EWR,green,6,0.031414
+2015,4,EWR,yellow,185,0.968586
+2015,4,Manhattan,green,470446,0.038313
+2015,4,Manhattan,yellow,11808537,0.961687
+2015,4,N/A,green,628,0.149988
+2015,4,N/A,yellow,3559,0.850012
+2015,4,Queens,green,441694,0.388992
+2015,4,Queens,yellow,693790,0.611008
+2015,4,Staten Island,green,241,0.692529
+2015,4,Staten Island,yellow,107,0.307471
+2015,4,Unknown,green,1438,0.006998
+2015,4,Unknown,yellow,204063,0.993002
+2015,5,Bronx,green,120579,0.922605
+2015,5,Bronx,yellow,10115,0.077395
+2015,5,Brooklyn,green,659720,0.695531
+2015,5,Brooklyn,yellow,288793,0.304469
+2015,5,EWR,green,8,0.033755
+2015,5,EWR,yellow,229,0.966245
+2015,5,Manhattan,green,493676,0.04005
+2015,5,Manhattan,yellow,11832963,0.95995
+2015,5,N/A,green,696,0.128342
+2015,5,N/A,yellow,4727,0.871658
+2015,5,Queens,green,483357,0.391437
+2015,5,Queens,yellow,751471,0.608563
+2015,5,Staten Island,green,224,0.620499
+2015,5,Staten Island,yellow,137,0.379501
+2015,5,Unknown,green,1360,0.007282
+2015,5,Unknown,yellow,185409,0.992718
+2015,6,Bronx,green,106315,0.92402
+2015,6,Bronx,yellow,8742,0.07598
+2015,6,Brooklyn,green,598241,0.723776
+2015,6,Brooklyn,yellow,228314,0.276224
+2015,6,EWR,green,15,0.064935
+2015,6,EWR,yellow,216,0.935065
+2015,6,Manhattan,green,455331,0.039327
+2015,6,Manhattan,yellow,11122842,0.960673
+2015,6,N/A,green,682,0.107418
+2015,6,N/A,yellow,5667,0.892582
+2015,6,Queens,green,452666,0.387074
+2015,6,Queens,yellow,716791,0.612926
+2015,6,Staten Island,green,194,0.662116
+2015,6,Staten Island,yellow,99,0.337884
+2015,6,Unknown,green,1242,0.007522
+2015,6,Unknown,yellow,163884,0.992478
+2015,7,Bronx,green,95469,0.919589
+2015,7,Bronx,yellow,8348,0.080411
+2015,7,Brooklyn,green,559833,0.735122
+2015,7,Brooklyn,yellow,201718,0.264878
+2015,7,EWR,green,8,0.046784
+2015,7,EWR,yellow,163,0.953216
+2015,7,Manhattan,green,430990,0.039621
+2015,7,Manhattan,yellow,10446845,0.960379
+2015,7,N/A,green,551,0.138616
+2015,7,N/A,yellow,3424,0.861384
+2015,7,Queens,green,430869,0.388465
+2015,7,Queens,yellow,678288,0.611535
+2015,7,Staten Island,green,183,0.655914
+2015,7,Staten Island,yellow,96,0.344086
+2015,7,Unknown,green,1124,0.007573
+2015,7,Unknown,yellow,147302,0.992427
+2015,8,Bronx,green,88374,0.915006
+2015,8,Bronx,yellow,8209,0.084994
+2015,8,Brooklyn,green,581936,0.756862
+2015,8,Brooklyn,yellow,186944,0.243138
+2015,8,EWR,green,7,0.035176
+2015,8,EWR,yellow,192,0.964824
+2015,8,Manhattan,green,415150,0.039772
+2015,8,Manhattan,yellow,10023034,0.960228
+2015,8,N/A,green,604,0.157991
+2015,8,N/A,yellow,3219,0.842009
+2015,8,Queens,green,423632,0.379977
+2015,8,Queens,yellow,691256,0.620023
+2015,8,Staten Island,green,180,0.598007
+2015,8,Staten Island,yellow,121,0.401993
+2015,8,Unknown,green,1021,0.007239
+2015,8,Unknown,yellow,140023,0.992761
+2015,9,Bronx,green,80998,0.915614
+2015,9,Bronx,yellow,7465,0.084386
+2015,9,Brooklyn,green,561618,0.734079
+2015,9,Brooklyn,yellow,203447,0.265921
+2015,9,EWR,green,11,0.052133
+2015,9,EWR,yellow,200,0.947867
+2015,9,Manhattan,green,422836,0.040151
+2015,9,Manhattan,yellow,10108335,0.959849
+2015,9,N/A,green,420,0.117057
+2015,9,N/A,yellow,3168,0.882943
+2015,9,Queens,green,406477,0.372534
+2015,9,Queens,yellow,684636,0.627466
+2015,9,Staten Island,green,75,0.304878
+2015,9,Staten Island,yellow,171,0.695122
+2015,9,Unknown,green,1125,0.008096
+2015,9,Unknown,yellow,137834,0.991904
+2015,10,Bronx,green,82624,0.916964
+2015,10,Bronx,yellow,7482,0.083036
+2015,10,Brooklyn,green,621873,0.749937
+2015,10,Brooklyn,yellow,207361,0.250063
+2015,10,EWR,green,7,0.028807
+2015,10,EWR,yellow,236,0.971193
+2015,10,Manhattan,green,465977,0.040181
+2015,10,Manhattan,yellow,11131084,0.959819
+2015,10,N/A,green,453,0.110434
+2015,10,N/A,yellow,3649,0.889566
+2015,10,Queens,green,435439,0.376765
+2015,10,Queens,yellow,720292,0.623235
+2015,10,Staten Island,green,84,0.401914
+2015,10,Staten Island,yellow,125,0.598086
+2015,10,Unknown,green,1338,0.008299
+2015,10,Unknown,yellow,159878,0.991701
+2015,11,Bronx,green,74783,0.906395
+2015,11,Bronx,yellow,7723,0.093605
+2015,11,Brooklyn,green,577900,0.761151
+2015,11,Brooklyn,yellow,181345,0.238849
+2015,11,EWR,green,10,0.03861
+2015,11,EWR,yellow,249,0.96139
+2015,11,Manhattan,green,442155,0.041475
+2015,11,Manhattan,yellow,10218671,0.958525
+2015,11,N/A,green,435,0.100741
+2015,11,N/A,yellow,3883,0.899259
+2015,11,Queens,green,411147,0.382187
+2015,11,Queens,yellow,664627,0.617813
+2015,11,Staten Island,green,133,0.558824
+2015,11,Staten Island,yellow,105,0.441176
+2015,11,Unknown,green,1265,0.008022
+2015,11,Unknown,yellow,156417,0.991978
+2015,12,Bronx,green,80669,0.898769
+2015,12,Bronx,yellow,9086,0.101231
+2015,12,Brooklyn,green,604422,0.76801
+2015,12,Brooklyn,yellow,182576,0.23199
+2015,12,EWR,green,12,0.04428
+2015,12,EWR,yellow,259,0.95572
+2015,12,Manhattan,green,455779,0.042051
+2015,12,Manhattan,yellow,10382843,0.957949
+2015,12,N/A,green,598,0.144584
+2015,12,N/A,yellow,3538,0.855416
+2015,12,Queens,green,442549,0.405681
+2015,12,Queens,yellow,648329,0.594319
+2015,12,Staten Island,green,183,0.628866
+2015,12,Staten Island,yellow,108,0.371134
+2015,12,Unknown,green,1237,0.007909
+2015,12,Unknown,yellow,155164,0.992091
+2016,1,Bronx,green,67561,0.889464
+2016,1,Bronx,yellow,8396,0.110536
+2016,1,Brooklyn,green,562775,0.756142
+2016,1,Brooklyn,yellow,181497,0.243858
+2016,1,EWR,green,4,0.021858
+2016,1,EWR,yellow,179,0.978142
+2016,1,Manhattan,green,404439,0.039388
+2016,1,Manhattan,yellow,9863739,0.960612
+2016,1,N/A,green,617,0.151821
+2016,1,N/A,yellow,3447,0.848179
+2016,1,Queens,green,387121,0.382856
+2016,1,Queens,yellow,624018,0.617144
+2016,1,Staten Island,green,239,0.665738
+2016,1,Staten Island,yellow,120,0.334262
+2016,1,Unknown,green,1291,0.008078
+2016,1,Unknown,yellow,158526,0.991922
+2016,2,Bronx,green,75316,0.900672
+2016,2,Bronx,yellow,8306,0.099328
+2016,2,Brooklyn,green,577442,0.757366
+2016,2,Brooklyn,yellow,184993,0.242634
+2016,2,EWR,green,4,0.023952
+2016,2,EWR,yellow,163,0.976048
+2016,2,Manhattan,green,442477,0.040977
+2016,2,Manhattan,yellow,10355792,0.959023
+2016,2,N/A,green,781,0.190395
+2016,2,N/A,yellow,3321,0.809605
+2016,2,Queens,green,393350,0.399428
+2016,2,Queens,yellow,591434,0.600572
+2016,2,Staten Island,green,261,0.355586
+2016,2,Staten Island,yellow,473,0.644414
+2016,2,Unknown,green,1415,0.008484
+2016,2,Unknown,yellow,165363,0.991516
+2016,3,Bronx,green,85124,0.89815
+2016,3,Bronx,yellow,9653,0.10185
+2016,3,Brooklyn,green,596155,0.740454
+2016,3,Brooklyn,yellow,208966,0.259546
+2016,3,EWR,green,12,0.05
+2016,3,EWR,yellow,228,0.95
+2016,3,Manhattan,green,461186,0.040024
+2016,3,Manhattan,yellow,11061424,0.959976
+2016,3,N/A,green,521,0.12896
+2016,3,N/A,yellow,3519,0.87104
+2016,3,Queens,green,410863,0.376405
+2016,3,Queens,yellow,680683,0.623595
+2016,3,Staten Island,green,194,0.248082
+2016,3,Staten Island,yellow,588,0.751918
+2016,3,Unknown,green,1334,0.007803
+2016,3,Unknown,yellow,169633,0.992197
+2016,4,Bronx,green,78373,0.898423
+2016,4,Bronx,yellow,8861,0.101577
+2016,4,Brooklyn,green,599805,0.739676
+2016,4,Brooklyn,yellow,211097,0.260324
+2016,4,EWR,green,5,0.02439
+2016,4,EWR,yellow,200,0.97561
+2016,4,Manhattan,green,433885,0.038579
+2016,4,Manhattan,yellow,10812757,0.961421
+2016,4,N/A,green,455,0.122049
+2016,4,N/A,yellow,3273,0.877951
+2016,4,Queens,green,408859,0.383443
+2016,4,Queens,yellow,657426,0.616557
+2016,4,Staten Island,green,211,0.249409
+2016,4,Staten Island,yellow,635,0.750591
+2016,4,Unknown,green,1166,0.007331
+2016,4,Unknown,yellow,157885,0.992669
+2016,5,Bronx,green,74953,0.888132
+2016,5,Bronx,yellow,9441,0.111868
+2016,5,Brooklyn,green,606221,0.725772
+2016,5,Brooklyn,yellow,229056,0.274228
+2016,5,EWR,green,8,0.033898
+2016,5,EWR,yellow,228,0.966102
+2016,5,Manhattan,green,428138,0.038571
+2016,5,Manhattan,yellow,10671966,0.961429
+2016,5,N/A,green,382,0.104343
+2016,5,N/A,yellow,3279,0.895657
+2016,5,Queens,green,405426,0.363234
+2016,5,Queens,yellow,710732,0.636766
+2016,5,Staten Island,green,243,0.263844
+2016,5,Staten Island,yellow,678,0.736156
+2016,5,Unknown,green,1172,0.008568
+2016,5,Unknown,yellow,135622,0.991432
+2016,6,Bronx,green,66586,0.884264
+2016,6,Bronx,yellow,8715,0.115736
+2016,6,Brooklyn,green,542106,0.727996
+2016,6,Brooklyn,yellow,202549,0.272004
+2016,6,EWR,green,6,0.028846
+2016,6,EWR,yellow,202,0.971154
+2016,6,Manhattan,green,394312,0.037766
+2016,6,Manhattan,yellow,10046619,0.962234
+2016,6,N/A,green,432,0.120738
+2016,6,N/A,yellow,3146,0.879262
+2016,6,Queens,green,380453,0.360891
+2016,6,Queens,yellow,673753,0.639109
+2016,6,Staten Island,green,269,0.30603
+2016,6,Staten Island,yellow,610,0.69397
+2016,6,Unknown,green,896,0.007006
+2016,6,Unknown,yellow,126990,0.992994
+2016,7,Bronx,green,58487,0.86892
+2016,7,Bronx,yellow,8823,0.13108
+2016,7,Brooklyn,green,515194,0.752331
+2016,7,Brooklyn,yellow,169603,0.247669
+2016,7,EWR,green,7,0.039773
+2016,7,EWR,yellow,169,0.960227
+2016,7,Manhattan,green,370775,0.038416
+2016,7,Manhattan,yellow,9280904,0.961584
+2016,7,N/A,green,396,0.127086
+2016,7,N/A,yellow,2720,0.872914
+2016,7,Queens,green,366655,0.362873
+2016,7,Queens,yellow,643768,0.637127
+2016,7,Staten Island,green,275,0.318656
+2016,7,Staten Island,yellow,588,0.681344
+2016,7,Unknown,green,802,0.006503
+2016,7,Unknown,yellow,122518,0.993497
+2016,8,Bronx,green,52974,0.875734
+2016,8,Bronx,yellow,7517,0.124266
+2016,8,Brooklyn,green,476756,0.756491
+2016,8,Brooklyn,yellow,153464,0.243509
+2016,8,EWR,green,4,0.019802
+2016,8,EWR,yellow,198,0.980198
+2016,8,Manhattan,green,356468,0.038197
+2016,8,Manhattan,yellow,8975977,0.961803
+2016,8,N/A,green,364,0.122766
+2016,8,N/A,yellow,2601,0.877234
+2016,8,Queens,green,341366,0.355535
+2016,8,Queens,yellow,618781,0.644465
+2016,8,Staten Island,green,165,0.217678
+2016,8,Staten Island,yellow,593,0.782322
+2016,8,Unknown,green,736,0.006052
+2016,8,Unknown,yellow,120879,0.993948
+2016,9,Bronx,green,51655,0.876043
+2016,9,Bronx,yellow,7309,0.123957
+2016,9,Brooklyn,green,405720,0.691873
+2016,9,Brooklyn,yellow,180688,0.308127
+2016,9,EWR,green,2,0.008696
+2016,9,EWR,yellow,228,0.991304
+2016,9,Manhattan,green,359159,0.037868
+2016,9,Manhattan,yellow,9125262,0.962132
+2016,9,N/A,green,280,0.084363
+2016,9,N/A,yellow,3039,0.915637
+2016,9,Queens,green,328049,0.34883
+2016,9,Queens,yellow,612377,0.65117
+2016,9,Staten Island,green,198,0.280453
+2016,9,Staten Island,yellow,508,0.719547
+2016,9,Unknown,green,706,0.00576
+2016,9,Unknown,yellow,121871,0.99424
+2016,10,Bronx,green,47204,0.869591
+2016,10,Bronx,yellow,7079,0.130409
+2016,10,Brooklyn,green,451990,0.719033
+2016,10,Brooklyn,yellow,176618,0.280967
+2016,10,EWR,green,2,0.007605
+2016,10,EWR,yellow,261,0.992395
+2016,10,Manhattan,green,384915,0.037689
+2016,10,Manhattan,yellow,9827889,0.962311
+2016,10,N/A,green,311,0.106983
+2016,10,N/A,yellow,2596,0.893017
+2016,10,Queens,green,351097,0.357664
+2016,10,Queens,yellow,630543,0.642336
+2016,10,Staten Island,green,176,0.315412
+2016,10,Staten Island,yellow,382,0.684588
+2016,10,Unknown,green,771,0.005427
+2016,10,Unknown,yellow,141288,0.994573
+2016,11,Bronx,green,43517,0.866752
+2016,11,Bronx,yellow,6690,0.133248
+2016,11,Brooklyn,green,406015,0.742438
+2016,11,Brooklyn,yellow,140852,0.257562
+2016,11,EWR,green,5,0.020325
+2016,11,EWR,yellow,241,0.979675
+2016,11,Manhattan,green,361373,0.037917
+2016,11,Manhattan,yellow,9169237,0.962083
+2016,11,N/A,green,248,0.092641
+2016,11,N/A,yellow,2429,0.907359
+2016,11,Queens,green,320506,0.357371
+2016,11,Queens,yellow,576338,0.642629
+2016,11,Staten Island,green,150,0.273224
+2016,11,Staten Island,yellow,399,0.726776
+2016,11,Unknown,green,760,0.005378
+2016,11,Unknown,yellow,140545,0.994622
+2016,12,Bronx,green,47160,0.85131
+2016,12,Bronx,yellow,8237,0.14869
+2016,12,Brooklyn,green,426596,0.740657
+2016,12,Brooklyn,yellow,149374,0.259343
+2016,12,EWR,green,7,0.025926
+2016,12,EWR,yellow,263,0.974074
+2016,12,Manhattan,green,377991,0.038305
+2016,12,Manhattan,yellow,9489835,0.961695
+2016,12,N/A,green,326,0.121461
+2016,12,N/A,yellow,2358,0.878539
+2016,12,Queens,green,355402,0.394704
+2016,12,Queens,yellow,545024,0.605296
+2016,12,Staten Island,green,136,0.236522
+2016,12,Staten Island,yellow,439,0.763478
+2016,12,Unknown,green,777,0.004197
+2016,12,Unknown,yellow,184334,0.995803
+2017,1,Bronx,green,38674,0.843214
+2017,1,Bronx,yellow,7191,0.156786
+2017,1,Brooklyn,green,382881,0.7452
+2017,1,Brooklyn,yellow,130915,0.2548
+2017,1,EWR,green,3,0.014423
+2017,1,EWR,yellow,205,0.985577
+2017,1,Manhattan,green,334514,0.036533
+2017,1,Manhattan,yellow,8821953,0.963467
+2017,1,N/A,green,209,0.099287
+2017,1,N/A,yellow,1896,0.900713
+2017,1,Queens,green,298933,0.360342
+2017,1,Queens,yellow,530649,0.639658
+2017,1,Staten Island,green,105,0.202312
+2017,1,Staten Island,yellow,414,0.797688
+2017,1,Unknown,green,731,0.004641
+2017,1,Unknown,yellow,156768,0.995359
+2017,2,Bronx,green,38803,0.852888
+2017,2,Bronx,yellow,6693,0.147112
+2017,2,Brooklyn,green,359770,0.735231
+2017,2,Brooklyn,yellow,129559,0.264769
+2017,2,EWR,green,5,0.029762
+2017,2,EWR,yellow,163,0.970238
+2017,2,Manhattan,green,326497,0.037574
+2017,2,Manhattan,yellow,8363029,0.962426
+2017,2,N/A,green,185,0.094629
+2017,2,N/A,yellow,1770,0.905371
+2017,2,Queens,green,283095,0.378069
+2017,2,Queens,yellow,465696,0.621931
+2017,2,Staten Island,green,99,0.485294
+2017,2,Staten Island,yellow,105,0.514706
+2017,2,Unknown,green,730,0.005076
+2017,2,Unknown,yellow,143074,0.994924
+2017,3,Bronx,green,50113,0.842703
+2017,3,Bronx,yellow,9354,0.157297
+2017,3,Brooklyn,green,404502,0.725357
+2017,3,Brooklyn,yellow,153157,0.274643
+2017,3,EWR,green,5,0.023474
+2017,3,EWR,yellow,208,0.976526
+2017,3,Manhattan,green,361583,0.037421
+2017,3,Manhattan,yellow,9300933,0.962579
+2017,3,N/A,green,211,0.095217
+2017,3,N/A,yellow,2005,0.904783
+2017,3,Queens,green,326597,0.35655
+2017,3,Queens,yellow,589395,0.64345
+2017,3,Staten Island,green,280,0.547945
+2017,3,Staten Island,yellow,231,0.452055
+2017,3,Unknown,green,804,0.004672
+2017,3,Unknown,yellow,171302,0.995328
+2017,4,Bronx,green,40215,0.836331
+2017,4,Bronx,yellow,7870,0.163669
+2017,4,Brooklyn,green,385334,0.725724
+2017,4,Brooklyn,yellow,145631,0.274276
+2017,4,EWR,green,4,0.021277
+2017,4,EWR,yellow,184,0.978723
+2017,4,Manhattan,green,337302,0.035776
+2017,4,Manhattan,yellow,9090854,0.964224
+2017,4,N/A,green,179,0.080161
+2017,4,N/A,yellow,2054,0.919839
+2017,4,Queens,green,303980,0.336676
+2017,4,Queens,yellow,598905,0.663324
+2017,4,Staten Island,green,205,0.302806
+2017,4,Staten Island,yellow,472,0.697194
+2017,4,Unknown,green,704,0.005341
+2017,4,Unknown,yellow,131108,0.994659
+2017,5,Bronx,green,39635,0.844484
+2017,5,Bronx,yellow,7299,0.155516
+2017,5,Brooklyn,green,362278,0.70295
+2017,5,Brooklyn,yellow,153090,0.29705
+2017,5,EWR,green,3,0.012195
+2017,5,EWR,yellow,243,0.987805
+2017,5,Manhattan,green,335480,0.035568
+2017,5,Manhattan,yellow,9096506,0.964432
+2017,5,N/A,green,202,0.088094
+2017,5,N/A,yellow,2091,0.911906
+2017,5,Queens,green,308482,0.325656
+2017,5,Queens,yellow,638782,0.674344
+2017,5,Staten Island,green,206,0.649842
+2017,5,Staten Island,yellow,111,0.350158
+2017,5,Unknown,green,694,0.005095
+2017,5,Unknown,yellow,135508,0.994905
+2017,6,Bronx,green,38242,0.835909
+2017,6,Bronx,yellow,7507,0.164091
+2017,6,Brooklyn,green,330813,0.690372
+2017,6,Brooklyn,yellow,148368,0.309628
+2017,6,EWR,green,4,0.018868
+2017,6,EWR,yellow,208,0.981132
+2017,6,Manhattan,green,308429,0.034191
+2017,6,Manhattan,yellow,8712407,0.965809
+2017,6,N/A,green,201,0.092884
+2017,6,N/A,yellow,1963,0.907116
+2017,6,Queens,green,286245,0.325599
+2017,6,Queens,yellow,592889,0.674401
+2017,6,Staten Island,green,136,0.591304
+2017,6,Staten Island,yellow,94,0.408696
+2017,6,Unknown,green,485,0.003811
+2017,6,Unknown,yellow,126762,0.996189
+2017,7,Bronx,green,34582,0.833161
+2017,7,Bronx,yellow,6925,0.166839
+2017,7,Brooklyn,green,316117,0.742892
+2017,7,Brooklyn,yellow,109405,0.257108
+2017,7,EWR,green,5,0.022422
+2017,7,EWR,yellow,218,0.977578
+2017,7,Manhattan,green,283756,0.035351
+2017,7,Manhattan,yellow,7743069,0.964649
+2017,7,N/A,green,210,0.107692
+2017,7,N/A,yellow,1740,0.892308
+2017,7,Queens,green,268381,0.323289
+2017,7,Queens,yellow,561777,0.676711
+2017,7,Staten Island,green,145,0.611814
+2017,7,Staten Island,yellow,92,0.388186
+2017,7,Unknown,green,526,0.005037
+2017,7,Unknown,yellow,103904,0.994963
+2017,8,Bronx,green,34167,0.847879
+2017,8,Bronx,yellow,6130,0.152121
+2017,8,Brooklyn,green,293902,0.746613
+2017,8,Brooklyn,yellow,99745,0.253387
+2017,8,EWR,green,1,0.006369
+2017,8,EWR,yellow,156,0.993631
+2017,8,Manhattan,green,274699,0.034949
+2017,8,Manhattan,yellow,7585270,0.965051
+2017,8,N/A,green,146,0.074833
+2017,8,N/A,yellow,1805,0.925167
+2017,8,Queens,green,253773,0.306946
+2017,8,Queens,yellow,572994,0.693054
+2017,8,Staten Island,green,103,0.635802
+2017,8,Staten Island,yellow,59,0.364198
+2017,8,Unknown,green,504,0.005163
+2017,8,Unknown,yellow,97117,0.994837
+2017,9,Bronx,green,34026,0.855548
+2017,9,Bronx,yellow,5745,0.144452
+2017,9,Brooklyn,green,298498,0.710496
+2017,9,Brooklyn,yellow,121628,0.289504
+2017,9,EWR,yellow,196,1.0
+2017,9,Manhattan,green,278367,0.033323
+2017,9,Manhattan,yellow,8075131,0.966677
+2017,9,N/A,green,135,0.067534
+2017,9,N/A,yellow,1864,0.932466
+2017,9,Queens,green,261209,0.313864
+2017,9,Queens,yellow,571027,0.686136
+2017,9,Staten Island,green,93,0.540698
+2017,9,Staten Island,yellow,79,0.459302
+2017,9,Unknown,green,442,0.004115
+2017,9,Unknown,yellow,106959,0.995885
+2017,10,Bronx,green,36146,0.859902
+2017,10,Bronx,yellow,5889,0.140098
+2017,10,Brooklyn,green,320089,0.726943
+2017,10,Brooklyn,yellow,120233,0.273057
+2017,10,EWR,green,8,0.040201
+2017,10,EWR,yellow,191,0.959799
+2017,10,Manhattan,green,294095,0.032206
+2017,10,Manhattan,yellow,8837668,0.967794
+2017,10,N/A,green,122,0.061276
+2017,10,N/A,yellow,1869,0.938724
+2017,10,Queens,green,264012,0.302435
+2017,10,Queens,yellow,608942,0.697565
+2017,10,Staten Island,green,200,0.675676
+2017,10,Staten Island,yellow,96,0.324324
+2017,10,Unknown,green,572,0.004507
+2017,10,Unknown,yellow,126336,0.995493
+2017,11,Bronx,green,33302,0.850278
+2017,11,Bronx,yellow,5864,0.149722
+2017,11,Brooklyn,green,294536,0.735544
+2017,11,Brooklyn,yellow,105897,0.264456
+2017,11,EWR,green,8,0.039409
+2017,11,EWR,yellow,195,0.960591
+2017,11,Manhattan,green,278490,0.032081
+2017,11,Manhattan,yellow,8402221,0.967919
+2017,11,N/A,green,131,0.073062
+2017,11,N/A,yellow,1662,0.926938
+2017,11,Queens,green,256732,0.31427
+2017,11,Queens,yellow,560183,0.68573
+2017,11,Staten Island,green,151,0.569811
+2017,11,Staten Island,yellow,114,0.430189
+2017,11,Unknown,green,493,0.003399
+2017,11,Unknown,yellow,144566,0.996601
+2017,12,Bronx,green,36639,0.840884
+2017,12,Bronx,yellow,6933,0.159116
+2017,12,Brooklyn,green,297080,0.7178
+2017,12,Brooklyn,yellow,116796,0.2822
+2017,12,EWR,green,5,0.022936
+2017,12,EWR,yellow,213,0.977064
+2017,12,Manhattan,green,286720,0.032173
+2017,12,Manhattan,yellow,8625092,0.967827
+2017,12,N/A,green,128,0.067941
+2017,12,N/A,yellow,1756,0.932059
+2017,12,Queens,green,274326,0.340565
+2017,12,Queens,yellow,531177,0.659435
+2017,12,Staten Island,green,83,0.461111
+2017,12,Staten Island,yellow,97,0.538889
+2017,12,Unknown,green,523,0.003164
+2017,12,Unknown,yellow,164770,0.996836
+2018,1,Bronx,green,34396,0.837966
+2018,1,Bronx,yellow,6651,0.162034
+2018,1,Brooklyn,green,261571,0.72662
+2018,1,Brooklyn,yellow,98412,0.27338
+2018,1,EWR,green,3,0.018868
+2018,1,EWR,yellow,156,0.981132
+2018,1,Manhattan,green,257548,0.031437
+2018,1,Manhattan,yellow,7934983,0.968563
+2018,1,N/A,green,79,0.052318
+2018,1,N/A,yellow,1431,0.947682
+2018,1,Queens,green,229196,0.308065
+2018,1,Queens,yellow,514789,0.691935
+2018,1,Staten Island,green,65,0.373563
+2018,1,Staten Island,yellow,109,0.626437
+2018,1,Unknown,green,461,0.003124
+2018,1,Unknown,yellow,147086,0.996876
+2018,2,Bronx,green,34812,0.854912
+2018,2,Bronx,yellow,5908,0.145088
+2018,2,Brooklyn,green,251807,0.729645
+2018,2,Brooklyn,yellow,93302,0.270355
+2018,2,EWR,green,2,0.013605
+2018,2,EWR,yellow,145,0.986395
+2018,2,Manhattan,green,258544,0.03233
+2018,2,Manhattan,yellow,7738599,0.96767
+2018,2,N/A,green,117,0.075338
+2018,2,N/A,yellow,1436,0.924662
+2018,2,Queens,green,215482,0.313031
+2018,2,Queens,yellow,472890,0.686969
+2018,2,Staten Island,green,89,0.536145
+2018,2,Staten Island,yellow,77,0.463855
+2018,2,Unknown,green,423,0.003329
+2018,2,Unknown,yellow,126648,0.996671
+2018,3,Bronx,green,43036,0.816901
+2018,3,Bronx,yellow,9646,0.183099
+2018,3,Brooklyn,green,269263,0.690351
+2018,3,Brooklyn,yellow,120775,0.309649
+2018,3,EWR,green,2,0.013072
+2018,3,EWR,yellow,151,0.986928
+2018,3,Manhattan,green,275203,0.031234
+2018,3,Manhattan,yellow,8535669,0.968766
+2018,3,N/A,green,138,0.074273
+2018,3,N/A,yellow,1720,0.925727
+2018,3,Queens,green,239050,0.302645
+2018,3,Queens,yellow,550820,0.697355
+2018,3,Staten Island,green,95,0.482234
+2018,3,Staten Island,yellow,102,0.517766
+2018,3,Unknown,green,427,0.002845
+2018,3,Unknown,yellow,149642,0.997155
+2018,4,Bronx,green,43498,0.815104
+2018,4,Bronx,yellow,9867,0.184896
+2018,4,Brooklyn,green,258779,0.688742
+2018,4,Brooklyn,yellow,116948,0.311258
+2018,4,EWR,green,3,0.017964
+2018,4,EWR,yellow,164,0.982036
+2018,4,Manhattan,green,261604,0.030212
+2018,4,Manhattan,yellow,8397399,0.969788
+2018,4,N/A,green,131,0.075461
+2018,4,N/A,yellow,1605,0.924539
+2018,4,Queens,green,225644,0.279066
+2018,4,Queens,yellow,582926,0.720934
+2018,4,Staten Island,green,117,0.554502
+2018,4,Staten Island,yellow,94,0.445498
+2018,4,Unknown,green,432,0.003128
+2018,4,Unknown,yellow,137673,0.996872
+2018,5,Bronx,green,47128,0.821518
+2018,5,Bronx,yellow,10239,0.178482
+2018,5,Brooklyn,green,251082,0.675491
+2018,5,Brooklyn,yellow,120621,0.324509
+2018,5,EWR,yellow,211,1.0
+2018,5,Manhattan,green,253148,0.029536
+2018,5,Manhattan,yellow,8317597,0.970464
+2018,5,N/A,green,105,0.061475
+2018,5,N/A,yellow,1603,0.938525
+2018,5,Queens,green,234643,0.28213
+2018,5,Queens,yellow,597041,0.71787
+2018,5,Staten Island,green,99,0.454128
+2018,5,Staten Island,yellow,119,0.545872
+2018,5,Unknown,green,351,0.003011
+2018,5,Unknown,yellow,116216,0.996989
+2018,6,Bronx,green,45237,0.824785
+2018,6,Bronx,yellow,9610,0.175215
+2018,6,Brooklyn,green,228389,0.654042
+2018,6,Brooklyn,yellow,120807,0.345958
+2018,6,EWR,green,2,0.010929
+2018,6,EWR,yellow,181,0.989071
+2018,6,Manhattan,green,235630,0.029154
+2018,6,Manhattan,yellow,7846648,0.970846
+2018,6,N/A,green,152,0.089097
+2018,6,N/A,yellow,1554,0.910903
+2018,6,Queens,green,220224,0.282419
+2018,6,Queens,yellow,559554,0.717581
+2018,6,Staten Island,green,95,0.437788
+2018,6,Staten Island,yellow,122,0.562212
+2018,6,Unknown,green,342,0.002984
+2018,6,Unknown,yellow,114258,0.997016
+2018,7,Bronx,green,39435,0.822814
+2018,7,Bronx,yellow,8492,0.177186
+2018,7,Brooklyn,green,216326,0.701198
+2018,7,Brooklyn,yellow,92183,0.298802
+2018,7,EWR,yellow,176,1.0
+2018,7,Manhattan,green,216051,0.029683
+2018,7,Manhattan,yellow,7062512,0.970317
+2018,7,N/A,green,120,0.062273
+2018,7,N/A,yellow,1807,0.937727
+2018,7,Queens,green,203901,0.280532
+2018,7,Queens,yellow,522937,0.719468
+2018,7,Staten Island,green,135,0.492701
+2018,7,Staten Island,yellow,139,0.507299
+2018,7,Unknown,green,358,0.003386
+2018,7,Unknown,yellow,105380,0.996614
+2018,8,Bronx,green,43577,0.812049
+2018,8,Bronx,yellow,10086,0.187951
+2018,8,Brooklyn,green,206255,0.684391
+2018,8,Brooklyn,yellow,95115,0.315609
+2018,8,EWR,green,1,0.007143
+2018,8,EWR,yellow,139,0.992857
+2018,8,Manhattan,green,210872,0.029012
+2018,8,Manhattan,yellow,7057528,0.970988
+2018,8,N/A,green,133,0.075141
+2018,8,N/A,yellow,1637,0.924859
+2018,8,Queens,green,206159,0.277387
+2018,8,Queens,yellow,537058,0.722613
+2018,8,Staten Island,green,188,0.512262
+2018,8,Staten Island,yellow,179,0.487738
+2018,8,Unknown,green,494,0.005092
+2018,8,Unknown,yellow,96522,0.994908
+2018,9,Bronx,green,44812,0.808151
+2018,9,Bronx,yellow,10638,0.191849
+2018,9,Brooklyn,green,215667,0.665327
+2018,9,Brooklyn,yellow,108485,0.334673
+2018,9,EWR,green,1,0.005236
+2018,9,EWR,yellow,190,0.994764
+2018,9,Manhattan,green,210793,0.028264
+2018,9,Manhattan,yellow,7247342,0.971736
+2018,9,N/A,green,159,0.080506
+2018,9,N/A,yellow,1816,0.919494
+2018,9,Queens,green,202075,0.279005
+2018,9,Queens,yellow,522195,0.720995
+2018,9,Staten Island,green,236,0.492693
+2018,9,Staten Island,yellow,243,0.507307
+2018,9,Unknown,green,358,0.003614
+2018,9,Unknown,yellow,98706,0.996386
+2018,10,Bronx,green,52750,0.803198
+2018,10,Bronx,yellow,12925,0.196802
+2018,10,Brooklyn,green,238044,0.667922
+2018,10,Brooklyn,yellow,118351,0.332078
+2018,10,EWR,green,2,0.008264
+2018,10,EWR,yellow,240,0.991736
+2018,10,Manhattan,green,223091,0.027334
+2018,10,Manhattan,yellow,7938695,0.972666
+2018,10,N/A,green,142,0.061102
+2018,10,N/A,yellow,2182,0.938898
+2018,10,Queens,green,208350,0.272643
+2018,10,Queens,yellow,555837,0.727357
+2018,10,Staten Island,green,231,0.408127
+2018,10,Staten Island,yellow,335,0.591873
+2018,10,Unknown,green,334,0.002473
+2018,10,Unknown,yellow,134742,0.997527
+2018,11,Bronx,green,48946,0.781997
+2018,11,Bronx,yellow,13645,0.218003
+2018,11,Brooklyn,green,211685,0.674442
+2018,11,Brooklyn,yellow,102182,0.325558
+2018,11,EWR,green,2,0.01
+2018,11,EWR,yellow,198,0.99
+2018,11,Manhattan,green,205100,0.027236
+2018,11,Manhattan,yellow,7325492,0.972764
+2018,11,N/A,green,122,0.051067
+2018,11,N/A,yellow,2267,0.948933
+2018,11,Queens,green,198576,0.280135
+2018,11,Queens,yellow,510283,0.719865
+2018,11,Staten Island,green,254,0.459313
+2018,11,Staten Island,yellow,299,0.540687
+2018,11,Unknown,green,293,0.002104
+2018,11,Unknown,yellow,138950,0.997896
+2018,12,Bronx,green,54766,0.775031
+2018,12,Bronx,yellow,15897,0.224969
+2018,12,Brooklyn,green,228448,0.679207
+2018,12,Brooklyn,yellow,107897,0.320793
+2018,12,EWR,green,2,0.009662
+2018,12,EWR,yellow,205,0.990338
+2018,12,Manhattan,green,213811,0.028183
+2018,12,Manhattan,yellow,7372818,0.971817
+2018,12,N/A,green,140,0.06225
+2018,12,N/A,yellow,2109,0.93775
+2018,12,Queens,green,210945,0.304063
+2018,12,Queens,yellow,482810,0.695937
+2018,12,Staten Island,green,331,0.476259
+2018,12,Staten Island,yellow,364,0.523741
+2018,12,Unknown,green,399,0.002652
+2018,12,Unknown,yellow,150074,0.997348
+2019,1,Bronx,green,54756,0.760183
+2019,1,Bronx,yellow,17274,0.239817
+2019,1,Brooklyn,green,212390,0.703276
+2019,1,Brooklyn,yellow,89611,0.296724
+2019,1,EWR,green,3,0.024
+2019,1,EWR,yellow,122,0.976
+2019,1,Manhattan,green,206223,0.028934
+2019,1,Manhattan,yellow,6921088,0.971066
+2019,1,N/A,green,161,0.072785
+2019,1,N/A,yellow,2051,0.927215
+2019,1,Queens,green,186568,0.289416
+2019,1,Queens,yellow,458069,0.710584
+2019,1,Staten Island,green,314,0.48986
+2019,1,Staten Island,yellow,327,0.51014
+2019,1,Unknown,green,416,0.002736
+2019,1,Unknown,yellow,151642,0.997264
+2019,2,Bronx,green,54152,0.759484
+2019,2,Bronx,yellow,17149,0.240516
+2019,2,Brooklyn,green,191563,0.675345
+2019,2,Brooklyn,yellow,92089,0.324655
+2019,2,EWR,green,2,0.014184
+2019,2,EWR,yellow,139,0.985816
+2019,2,Manhattan,green,188596,0.028642
+2019,2,Manhattan,yellow,6396089,0.971358
+2019,2,N/A,green,154,0.085083
+2019,2,N/A,yellow,1656,0.914917
+2019,2,Queens,green,169778,0.284699
+2019,2,Queens,yellow,426565,0.715301
+2019,2,Staten Island,green,352,0.526158
+2019,2,Staten Island,yellow,317,0.473842
+2019,2,Unknown,green,323,0.004999
+2019,2,Unknown,yellow,64296,0.995001
+2019,3,Bronx,green,56045,0.7452
+2019,3,Bronx,yellow,19163,0.2548
+2019,3,Brooklyn,green,196683,0.647392
+2019,3,Brooklyn,yellow,107125,0.352608
+2019,3,EWR,green,1,0.00625
+2019,3,EWR,yellow,159,0.99375
+2019,3,Manhattan,green,199535,0.027291
+2019,3,Manhattan,yellow,7111767,0.972709
+2019,3,N/A,green,191,0.102799
+2019,3,N/A,yellow,1667,0.897201
+2019,3,Queens,green,179212,0.255607
+2019,3,Queens,yellow,521911,0.744393
+2019,3,Staten Island,green,314,0.560714
+2019,3,Staten Island,yellow,246,0.439286
+2019,3,Unknown,green,277,0.005875
+2019,3,Unknown,yellow,46869,0.994125
+2019,4,Bronx,green,43464,0.734264
+2019,4,Bronx,yellow,15730,0.265736
+2019,4,Brooklyn,green,169696,0.639101
+2019,4,Brooklyn,yellow,95827,0.360899
+2019,4,EWR,yellow,194,1.0
+2019,4,Manhattan,green,187846,0.027101
+2019,4,Manhattan,yellow,6743532,0.972899
+2019,4,N/A,green,140,0.053456
+2019,4,N/A,yellow,2479,0.946544
+2019,4,Queens,green,156768,0.237993
+2019,4,Queens,yellow,501941,0.762007
+2019,4,Staten Island,green,223,0.450505
+2019,4,Staten Island,yellow,272,0.549495
+2019,4,Unknown,green,247,0.003879
+2019,4,Unknown,yellow,63433,0.996121
+2019,5,Bronx,green,38412,0.739346
+2019,5,Bronx,yellow,13542,0.260654
+2019,5,Brooklyn,green,154673,0.625556
+2019,5,Brooklyn,yellow,92584,0.374444
+2019,5,EWR,green,1,0.004762
+2019,5,EWR,yellow,209,0.995238
+2019,5,Manhattan,green,185617,0.026404
+2019,5,Manhattan,yellow,6844364,0.973596
+2019,5,N/A,green,219,0.088808
+2019,5,N/A,yellow,2247,0.911192
+2019,5,Queens,green,156638,0.228831
+2019,5,Queens,yellow,527876,0.771169
+2019,5,Staten Island,green,257,0.46223
+2019,5,Staten Island,yellow,299,0.53777
+2019,5,Unknown,green,221,0.003715
+2019,5,Unknown,yellow,59273,0.996285
+2019,6,Bronx,green,33330,0.71662
+2019,6,Bronx,yellow,13180,0.28338
+2019,6,Brooklyn,green,139771,0.614443
+2019,6,Brooklyn,yellow,87705,0.385557
+2019,6,EWR,green,2,0.009434
+2019,6,EWR,yellow,210,0.990566
+2019,6,Manhattan,green,175833,0.027366
+2019,6,Manhattan,yellow,6249408,0.972634
+2019,6,N/A,green,258,0.110445
+2019,6,N/A,yellow,2078,0.889555
+2019,6,Queens,green,147195,0.226985
+2019,6,Queens,yellow,501285,0.773015
+2019,6,Staten Island,green,203,0.388145
+2019,6,Staten Island,yellow,320,0.611855
+2019,6,Unknown,green,166,0.003141
+2019,6,Unknown,yellow,52681,0.996859
+2019,7,Bronx,green,31370,0.723578
+2019,7,Bronx,yellow,11984,0.276422
+2019,7,Brooklyn,green,128913,0.643873
+2019,7,Brooklyn,yellow,71302,0.356127
+2019,7,EWR,green,2,0.011976
+2019,7,EWR,yellow,165,0.988024
+2019,7,Manhattan,green,162129,0.027931
+2019,7,Manhattan,yellow,5642568,0.972069
+2019,7,N/A,green,223,0.103673
+2019,7,N/A,yellow,1928,0.896327
+2019,7,Queens,green,135656,0.224187
+2019,7,Queens,yellow,469445,0.775813
+2019,7,Staten Island,green,222,0.441352
+2019,7,Staten Island,yellow,281,0.558648
+2019,7,Unknown,green,182,0.004148
+2019,7,Unknown,yellow,43690,0.995852
+2019,8,Bronx,green,31458,0.753467
+2019,8,Bronx,yellow,10293,0.246533
+2019,8,Brooklyn,green,119127,0.647852
+2019,8,Brooklyn,yellow,64753,0.352148
+2019,8,EWR,green,1,0.005525
+2019,8,EWR,yellow,180,0.994475
+2019,8,Manhattan,green,150810,0.027131
+2019,8,Manhattan,yellow,5407730,0.972869
+2019,8,N/A,green,218,0.124287
+2019,8,N/A,yellow,1536,0.875713
+2019,8,Queens,green,133494,0.220253
+2019,8,Queens,yellow,472600,0.779747
+2019,8,Staten Island,green,213,0.456103
+2019,8,Staten Island,yellow,254,0.543897
+2019,8,Unknown,green,189,0.004135
+2019,8,Unknown,yellow,45516,0.995865
+2019,9,Bronx,green,31059,0.757925
+2019,9,Bronx,yellow,9920,0.242075
+2019,9,Brooklyn,green,120133,0.616275
+2019,9,Brooklyn,yellow,74801,0.383725
+2019,9,EWR,yellow,187,1.0
+2019,9,Manhattan,green,152818,0.025258
+2019,9,Manhattan,yellow,5897529,0.974742
+2019,9,N/A,green,224,0.128588
+2019,9,N/A,yellow,1518,0.871412
+2019,9,Queens,green,130859,0.220146
+2019,9,Queens,yellow,463560,0.779854
+2019,9,Staten Island,green,184,0.444444
+2019,9,Staten Island,yellow,230,0.555556
+2019,9,Unknown,green,193,0.00406
+2019,9,Unknown,yellow,47347,0.99594
+2019,10,Bronx,green,34106,0.766996
+2019,10,Bronx,yellow,10361,0.233004
+2019,10,Brooklyn,green,128111,0.618356
+2019,10,Brooklyn,yellow,79069,0.381644
+2019,10,EWR,green,3,0.013699
+2019,10,EWR,yellow,216,0.986301
+2019,10,Manhattan,green,165941,0.024833
+2019,10,Manhattan,yellow,6516228,0.975167
+2019,10,N/A,green,229,0.136391
+2019,10,N/A,yellow,1450,0.863609
+2019,10,Queens,green,134446,0.216449
+2019,10,Queens,yellow,486697,0.783551
+2019,10,Staten Island,green,228,0.464358
+2019,10,Staten Island,yellow,263,0.535642
+2019,10,Unknown,green,190,0.003929
+2019,10,Unknown,yellow,48170,0.996071
+2019,11,Bronx,green,27302,0.73913
+2019,11,Bronx,yellow,9636,0.26087
+2019,11,Brooklyn,green,113794,0.616105
+2019,11,Brooklyn,yellow,70905,0.383895
+2019,11,EWR,green,1,0.00431
+2019,11,EWR,yellow,231,0.99569
+2019,11,Manhattan,green,155109,0.024249
+2019,11,Manhattan,yellow,6241418,0.975751
+2019,11,N/A,green,217,0.140181
+2019,11,N/A,yellow,1331,0.859819
+2019,11,Queens,green,124083,0.222471
+2019,11,Queens,yellow,433665,0.777529
+2019,11,Staten Island,green,204,0.445415
+2019,11,Staten Island,yellow,254,0.554585
+2019,11,Unknown,green,187,0.00411
+2019,11,Unknown,yellow,45309,0.99589
+2019,12,Bronx,green,31253,0.738248
+2019,12,Bronx,yellow,11081,0.261752
+2019,12,Brooklyn,green,119446,0.617365
+2019,12,Brooklyn,yellow,74031,0.382635
+2019,12,EWR,green,4,0.015209
+2019,12,EWR,yellow,259,0.984791
+2019,12,Manhattan,green,154900,0.024249
+2019,12,Manhattan,yellow,6232958,0.975751
+2019,12,N/A,green,225,0.123288
+2019,12,N/A,yellow,1600,0.876712
+2019,12,Queens,green,132461,0.225299
+2019,12,Queens,yellow,455474,0.774701
+2019,12,Staten Island,green,140,0.353535
+2019,12,Staten Island,yellow,256,0.646465
+2019,12,Unknown,green,192,0.004111
+2019,12,Unknown,yellow,46508,0.995889
+2020,1,Bronx,green,33657,0.763093
+2020,1,Bronx,yellow,10449,0.236907
+2020,1,Brooklyn,green,122237,0.663412
+2020,1,Brooklyn,yellow,62018,0.336588
+2020,1,EWR,yellow,165,1.0
+2020,1,Manhattan,green,151796,0.025498
+2020,1,Manhattan,yellow,5801500,0.974502
+2020,1,N/A,green,255,0.16921
+2020,1,N/A,yellow,1252,0.83079
+2020,1,Queens,green,122381,0.231407
+2020,1,Queens,yellow,406476,0.768593
+2020,1,Staten Island,green,158,0.33833
+2020,1,Staten Island,yellow,309,0.66167
+2020,1,Unknown,green,161,0.004078
+2020,1,Unknown,yellow,39322,0.995922
+2020,2,Bronx,green,26776,0.733589
+2020,2,Bronx,yellow,9724,0.266411
+2020,2,Brooklyn,green,107167,0.627401
+2020,2,Brooklyn,yellow,63644,0.372599
+2020,2,EWR,green,3,0.018868
+2020,2,EWR,yellow,156,0.981132
+2020,2,Manhattan,green,144074,0.024393
+2020,2,Manhattan,yellow,5762301,0.975607
+2020,2,N/A,green,315,0.204413
+2020,2,N/A,yellow,1226,0.795587
+2020,2,Queens,green,106906,0.226858
+2020,2,Queens,yellow,364340,0.773142
+2020,2,Staten Island,green,106,0.31454
+2020,2,Staten Island,yellow,231,0.68546
+2020,2,Unknown,green,190,0.005237
+2020,2,Unknown,yellow,36088,0.994763
+2020,3,Bronx,green,17538,0.682147
+2020,3,Bronx,yellow,8172,0.317853
+2020,3,Brooklyn,green,57685,0.607985
+2020,3,Brooklyn,yellow,37194,0.392015
+2020,3,EWR,yellow,86,1.0
+2020,3,Manhattan,green,82864,0.029394
+2020,3,Manhattan,yellow,2736233,0.970606
+2020,3,N/A,green,365,0.252072
+2020,3,N/A,yellow,1083,0.747928
+2020,3,Queens,green,56870,0.245157
+2020,3,Queens,yellow,175104,0.754843
+2020,3,Staten Island,green,120,0.410959
+2020,3,Staten Island,yellow,172,0.589041
+2020,3,Unknown,green,88,0.005006
+2020,3,Unknown,yellow,17490,0.994994
+2020,4,Bronx,green,4796,0.498234
+2020,4,Bronx,yellow,4830,0.501766
+2020,4,Brooklyn,green,7581,0.540612
+2020,4,Brooklyn,yellow,6442,0.459388
+2020,4,EWR,green,1,0.333333
+2020,4,EWR,yellow,2,0.666667
+2020,4,Manhattan,green,16322,0.072815
+2020,4,Manhattan,yellow,207836,0.927185
+2020,4,N/A,green,83,0.30855
+2020,4,N/A,yellow,186,0.69145
+2020,4,Queens,green,5035,0.357879
+2020,4,Queens,yellow,9034,0.642121
+2020,4,Staten Island,green,31,0.223022
+2020,4,Staten Island,yellow,108,0.776978
+2020,4,Unknown,green,11,0.006559
+2020,4,Unknown,yellow,1666,0.993441
+2020,5,Bronx,green,9311,0.459213
+2020,5,Bronx,yellow,10965,0.540787
+2020,5,Brooklyn,green,13892,0.445542
+2020,5,Brooklyn,yellow,17288,0.554458
+2020,5,EWR,yellow,4,1.0
+2020,5,Manhattan,green,22869,0.074229
+2020,5,Manhattan,yellow,285220,0.925771
+2020,5,N/A,green,229,0.322082
+2020,5,N/A,yellow,482,0.677918
+2020,5,Queens,green,8487,0.318294
+2020,5,Queens,yellow,18177,0.681706
+2020,5,Staten Island,green,147,0.310127
+2020,5,Staten Island,yellow,327,0.689873
+2020,5,Unknown,green,24,0.009909
+2020,5,Unknown,yellow,2398,0.990091
+2020,6,Bronx,green,8621,0.497031
+2020,6,Bronx,yellow,8724,0.502969
+2020,6,Brooklyn,green,15255,0.483564
+2020,6,Brooklyn,yellow,16292,0.516436
+2020,6,EWR,yellow,10,1.0
+2020,6,Manhattan,green,27170,0.055233
+2020,6,Manhattan,yellow,464744,0.944767
+2020,6,N/A,green,137,0.32619
+2020,6,N/A,yellow,283,0.67381
+2020,6,Queens,green,8627,0.214538
+2020,6,Queens,yellow,31585,0.785462
+2020,6,Staten Island,green,249,0.322122
+2020,6,Staten Island,yellow,524,0.677878
+2020,6,Unknown,green,18,0.004437
+2020,6,Unknown,yellow,4039,0.995563
+2020,7,Bronx,green,9626,0.474748
+2020,7,Bronx,yellow,10650,0.525252
+2020,7,Brooklyn,green,16995,0.455789
+2020,7,Brooklyn,yellow,20292,0.544211
+2020,7,EWR,green,2,0.181818
+2020,7,EWR,yellow,9,0.818182
+2020,7,Manhattan,green,30787,0.042827
+2020,7,Manhattan,yellow,688076,0.957173
+2020,7,N/A,green,113,0.243011
+2020,7,N/A,yellow,352,0.756989
+2020,7,Queens,green,10600,0.198803
+2020,7,Queens,yellow,42719,0.801197
+2020,7,Staten Island,green,112,0.346749
+2020,7,Staten Island,yellow,211,0.653251
+2020,7,Unknown,green,27,0.003963
+2020,7,Unknown,yellow,6786,0.996037
+2020,8,Bronx,green,10799,0.462405
+2020,8,Bronx,yellow,12555,0.537595
+2020,8,Brooklyn,green,20664,0.457999
+2020,8,Brooklyn,yellow,24454,0.542001
+2020,8,EWR,green,1,0.0625
+2020,8,EWR,yellow,15,0.9375
+2020,8,Manhattan,green,30607,0.033893
+2020,8,Manhattan,yellow,872437,0.966107
+2020,8,N/A,green,154,0.241379
+2020,8,N/A,yellow,484,0.758621
+2020,8,Queens,green,14549,0.21169
+2020,8,Queens,yellow,54179,0.78831
+2020,8,Staten Island,green,157,0.448571
+2020,8,Staten Island,yellow,193,0.551429
+2020,8,Unknown,green,16,0.002481
+2020,8,Unknown,yellow,6432,0.997519
+2020,9,Bronx,green,12449,0.499078
+2020,9,Bronx,yellow,12495,0.500922
+2020,9,Brooklyn,green,22205,0.452618
+2020,9,Brooklyn,yellow,26854,0.547382
+2020,9,EWR,yellow,4,1.0
+2020,9,Manhattan,green,33329,0.027198
+2020,9,Manhattan,yellow,1192110,0.972802
+2020,9,N/A,green,108,0.009866
+2020,9,N/A,yellow,10839,0.990134
+2020,9,Queens,green,15935,0.220878
+2020,9,Queens,yellow,56209,0.779122
+2020,9,Staten Island,green,123,0.360704
+2020,9,Staten Island,yellow,218,0.639296
+2020,9,Unknown,green,21,0.002597
+2020,9,Unknown,yellow,8065,0.997403
+2020,10,Bronx,green,12933,0.483368
+2020,10,Bronx,yellow,13823,0.516632
+2020,10,Brooklyn,green,23940,0.448138
+2020,10,Brooklyn,yellow,29481,0.551862
+2020,10,EWR,green,1,0.071429
+2020,10,EWR,yellow,13,0.928571
+2020,10,Manhattan,green,35855,0.023288
+2020,10,Manhattan,yellow,1503764,0.976712
+2020,10,N/A,green,118,0.008615
+2020,10,N/A,yellow,13579,0.991385
+2020,10,Queens,green,18342,0.222581
+2020,10,Queens,yellow,64064,0.777419
+2020,10,Staten Island,green,122,0.27051
+2020,10,Staten Island,yellow,329,0.72949
+2020,10,Unknown,green,27,0.00286
+2020,10,Unknown,yellow,9415,0.99714
+2020,11,Bronx,green,11718,0.482759
+2020,11,Bronx,yellow,12555,0.517241
+2020,11,Brooklyn,green,22994,0.451544
+2020,11,Brooklyn,yellow,27929,0.548456
+2020,11,EWR,yellow,23,1.0
+2020,11,Manhattan,green,33316,0.023953
+2020,11,Manhattan,yellow,1357547,0.976047
+2020,11,N/A,green,152,0.014008
+2020,11,N/A,yellow,10699,0.985992
+2020,11,Queens,green,17190,0.225422
+2020,11,Queens,yellow,59067,0.774578
+2020,11,Staten Island,green,75,0.176887
+2020,11,Staten Island,yellow,349,0.823113
+2020,11,Unknown,green,30,0.003406
+2020,11,Unknown,yellow,8779,0.996594
+2020,12,Bronx,green,10947,0.435597
+2020,12,Bronx,yellow,14184,0.564403
+2020,12,Brooklyn,green,21985,0.449858
+2020,12,Brooklyn,yellow,26886,0.550142
+2020,12,EWR,yellow,14,1.0
+2020,12,Manhattan,green,31224,0.023049
+2020,12,Manhattan,yellow,1323460,0.976951
+2020,12,N/A,green,188,0.016875
+2020,12,N/A,yellow,10953,0.983125
+2020,12,Queens,green,16292,0.214962
+2020,12,Queens,yellow,59498,0.785038
+2020,12,Staten Island,green,188,0.328098
+2020,12,Staten Island,yellow,385,0.671902
+2020,12,Unknown,green,27,0.003025
+2020,12,Unknown,yellow,8898,0.996975
+2021,1,Bronx,green,10082,0.416216
+2021,1,Bronx,yellow,14141,0.583784
+2021,1,Brooklyn,green,20286,0.437179
+2021,1,Brooklyn,yellow,26116,0.562821
+2021,1,EWR,yellow,8,1.0
+2021,1,Manhattan,green,29535,0.02367
+2021,1,Manhattan,yellow,1218249,0.97633
+2021,1,N/A,green,121,0.011237
+2021,1,N/A,yellow,10647,0.988763
+2021,1,Queens,green,13678,0.16095
+2021,1,Queens,yellow,71305,0.83905
+2021,1,Staten Island,green,136,0.274194
+2021,1,Staten Island,yellow,360,0.725806
+2021,1,Unknown,green,36,0.004097
+2021,1,Unknown,yellow,8750,0.995903
+2021,2,Bronx,green,8682,0.422194
+2021,2,Bronx,yellow,11882,0.577806
+2021,2,Brooklyn,green,16423,0.401246
+2021,2,Brooklyn,yellow,24507,0.598754
+2021,2,EWR,yellow,8,1.0
+2021,2,Manhattan,green,26124,0.020716
+2021,2,Manhattan,yellow,1234903,0.979284
+2021,2,N/A,green,121,0.008545
+2021,2,N/A,yellow,14040,0.991455
+2021,2,Queens,green,10979,0.158771
+2021,2,Queens,yellow,58171,0.841229
+2021,2,Staten Island,green,110,0.257009
+2021,2,Staten Island,yellow,318,0.742991
+2021,2,Unknown,green,32,0.003627
+2021,2,Unknown,yellow,8791,0.996373
+2021,3,Bronx,green,12515,0.44585
+2021,3,Bronx,yellow,15555,0.55415
+2021,3,Brooklyn,green,21549,0.391295
+2021,3,Brooklyn,yellow,33522,0.608705
+2021,3,EWR,yellow,15,1.0
+2021,3,Manhattan,green,32348,0.018283
+2021,3,Manhattan,yellow,1736928,0.981717
+2021,3,N/A,green,110,0.00753
+2021,3,N/A,yellow,14498,0.99247
+2021,3,Queens,green,14309,0.141684
+2021,3,Queens,yellow,86683,0.858316
+2021,3,Staten Island,green,170,0.338645
+2021,3,Staten Island,yellow,332,0.661355
+2021,3,Unknown,green,30,0.00234
+2021,3,Unknown,yellow,12792,0.99766
+2021,4,Bronx,green,13164,0.474515
+2021,4,Bronx,yellow,14578,0.525485
+2021,4,Brooklyn,green,21757,0.39675
+2021,4,Brooklyn,yellow,33081,0.60325
+2021,4,EWR,yellow,19,1.0
+2021,4,Manhattan,green,33102,0.016676
+2021,4,Manhattan,yellow,1951851,0.983324
+2021,4,N/A,green,124,0.010248
+2021,4,N/A,yellow,11976,0.989752
+2021,4,Queens,green,14979,0.116971
+2021,4,Queens,yellow,113078,0.883029
+2021,4,Staten Island,green,168,0.352941
+2021,4,Staten Island,yellow,308,0.647059
+2021,4,Unknown,green,67,0.004664
+2021,4,Unknown,yellow,14299,0.995336
+2021,5,Bronx,green,11966,0.516823
+2021,5,Bronx,yellow,11187,0.483177
+2021,5,Brooklyn,green,20684,0.403087
+2021,5,Brooklyn,yellow,30630,0.596913
+2021,5,EWR,yellow,36,1.0
+2021,5,Manhattan,green,35938,0.015656
+2021,5,Manhattan,yellow,2259551,0.984344
+2021,5,N/A,green,123,0.010334
+2021,5,N/A,yellow,11779,0.989666
+2021,5,Queens,green,14988,0.09371
+2021,5,Queens,yellow,144953,0.90629
+2021,5,Staten Island,green,145,0.358025
+2021,5,Staten Island,yellow,260,0.641975
+2021,5,Unknown,green,61,0.004183
+2021,5,Unknown,yellow,14521,0.995817
+2021,6,Bronx,green,9810,0.523451
+2021,6,Bronx,yellow,8931,0.476549
+2021,6,Brooklyn,green,18639,0.388021
+2021,6,Brooklyn,yellow,29397,0.611979
+2021,6,EWR,green,1,0.023256
+2021,6,EWR,yellow,42,0.976744
+2021,6,Manhattan,green,37775,0.014541
+2021,6,Manhattan,yellow,2560016,0.985459
+2021,6,N/A,green,120,0.010946
+2021,6,N/A,yellow,10843,0.989054
+2021,6,Queens,green,16275,0.085945
+2021,6,Queens,yellow,173091,0.914055
+2021,6,Staten Island,green,181,0.435096
+2021,6,Staten Island,yellow,235,0.564904
+2021,6,Unknown,green,53,0.003258
+2021,6,Unknown,yellow,16214,0.996742
+2021,7,Bronx,green,9553,0.535452
+2021,7,Bronx,yellow,8288,0.464548
+2021,7,Brooklyn,green,18429,0.394507
+2021,7,Brooklyn,yellow,28285,0.605493
+2021,7,EWR,yellow,66,1.0
+2021,7,Manhattan,green,35043,0.013737
+2021,7,Manhattan,yellow,2515872,0.986263
+2021,7,N/A,green,138,0.012747
+2021,7,N/A,yellow,10688,0.987253
+2021,7,Queens,green,16577,0.075783
+2021,7,Queens,yellow,202166,0.924217
+2021,7,Staten Island,green,180,0.44335
+2021,7,Staten Island,yellow,226,0.55665
+2021,7,Unknown,green,64,0.003618
+2021,7,Unknown,yellow,17625,0.996382
+2021,8,Bronx,green,9339,0.537373
+2021,8,Bronx,yellow,8040,0.462627
+2021,8,Brooklyn,green,18434,0.387106
+2021,8,Brooklyn,yellow,29186,0.612894
+2021,8,EWR,green,1,0.016129
+2021,8,EWR,yellow,61,0.983871
+2021,8,Manhattan,green,35742,0.014298
+2021,8,Manhattan,yellow,2463983,0.985702
+2021,8,N/A,green,123,0.010302
+2021,8,N/A,yellow,11816,0.989698
+2021,8,Queens,green,16380,0.069762
+2021,8,Queens,yellow,218418,0.930238
+2021,8,Staten Island,green,189,0.397059
+2021,8,Staten Island,yellow,287,0.602941
+2021,8,Unknown,green,49,0.002681
+2021,8,Unknown,yellow,18225,0.997319
+2021,9,Bronx,green,9391,0.565382
+2021,9,Bronx,yellow,7219,0.434618
+2021,9,Brooklyn,green,20415,0.417382
+2021,9,Brooklyn,yellow,28497,0.582618
+2021,9,EWR,green,1,0.013699
+2021,9,EWR,yellow,72,0.986301
+2021,9,Manhattan,green,38559,0.014468
+2021,9,Manhattan,yellow,2626631,0.985532
+2021,9,N/A,green,160,0.012331
+2021,9,N/A,yellow,12815,0.987669
+2021,9,Queens,green,22911,0.098066
+2021,9,Queens,yellow,210717,0.901934
+2021,9,Staten Island,green,229,0.418647
+2021,9,Staten Island,yellow,318,0.581353
+2021,9,Unknown,green,68,0.003352
+2021,9,Unknown,yellow,20221,0.996648
+2021,10,Bronx,green,10085,0.624574
+2021,10,Bronx,yellow,6062,0.375426
+2021,10,Brooklyn,green,24404,0.473313
+2021,10,Brooklyn,yellow,27156,0.526687
+2021,10,EWR,green,1,0.010204
+2021,10,EWR,yellow,97,0.989796
+2021,10,Manhattan,green,45555,0.014399
+2021,10,Manhattan,yellow,3118305,0.985601
+2021,10,N/A,green,168,0.017225
+2021,10,N/A,yellow,9585,0.982775
+2021,10,Queens,green,25758,0.099976
+2021,10,Queens,yellow,231883,0.900024
+2021,10,Staten Island,green,254,0.466055
+2021,10,Staten Island,yellow,291,0.533945
+2021,10,Unknown,green,57,0.002179
+2021,10,Unknown,yellow,26102,0.997821
+2021,11,Bronx,green,9187,0.619571
+2021,11,Bronx,yellow,5641,0.380429
+2021,11,Brooklyn,green,24041,0.493554
+2021,11,Brooklyn,yellow,24669,0.506446
+2021,11,EWR,green,2,0.015504
+2021,11,EWR,yellow,127,0.984496
+2021,11,Manhattan,green,45198,0.014299
+2021,11,Manhattan,yellow,3115757,0.985701
+2021,11,N/A,green,195,0.032505
+2021,11,N/A,yellow,5804,0.967495
+2021,11,Queens,green,25254,0.090121
+2021,11,Queens,yellow,254968,0.909879
+2021,11,Staten Island,green,255,0.473978
+2021,11,Staten Island,yellow,283,0.526022
+2021,11,Unknown,green,62,0.002167
+2021,11,Unknown,yellow,28545,0.997833
+2021,12,Bronx,green,7262,0.614799
+2021,12,Bronx,yellow,4550,0.385201
+2021,12,Brooklyn,green,21021,0.502714
+2021,12,Brooklyn,yellow,20794,0.497286
+2021,12,EWR,green,3,0.019737
+2021,12,EWR,yellow,149,0.980263
+2021,12,Manhattan,green,43946,0.015094
+2021,12,Manhattan,yellow,2867450,0.984906
+2021,12,N/A,green,174,0.028789
+2021,12,N/A,yellow,5870,0.971211
+2021,12,Queens,green,23039,0.084566
+2021,12,Queens,yellow,249400,0.915434
+2021,12,Staten Island,green,346,0.637201
+2021,12,Staten Island,yellow,197,0.362799
+2021,12,Unknown,green,51,0.001829
+2021,12,Unknown,yellow,27832,0.998171
+2022,1,Bronx,green,2344,0.446476
+2022,1,Bronx,yellow,2906,0.553524
+2022,1,Brooklyn,green,9541,0.444657
+2022,1,Brooklyn,yellow,11916,0.555343
+2022,1,EWR,yellow,65,1.0
+2022,1,Manhattan,green,33910,0.015116
+2022,1,Manhattan,yellow,2209372,0.984884
+2022,1,N/A,green,22,0.003693
+2022,1,N/A,yellow,5936,0.996307
+2022,1,Queens,green,12948,0.06641
+2022,1,Queens,yellow,182024,0.93359
+2022,1,Staten Island,green,6,0.055046
+2022,1,Staten Island,yellow,103,0.944954
+2022,1,Unknown,green,45,0.002085
+2022,1,Unknown,yellow,21539,0.997915
+2022,2,Bronx,green,2125,0.40538
+2022,2,Bronx,yellow,3117,0.59462
+2022,2,Brooklyn,green,10307,0.372956
+2022,2,Brooklyn,yellow,17329,0.627044
+2022,2,EWR,yellow,82,1.0
+2022,2,Manhattan,green,39080,0.014276
+2022,2,Manhattan,yellow,2698464,0.985724
+2022,2,N/A,green,27,0.003742
+2022,2,N/A,yellow,7188,0.996258
+2022,2,Queens,green,13964,0.066952
+2022,2,Queens,yellow,194602,0.933048
+2022,2,Staten Island,green,3,0.020548
+2022,2,Staten Island,yellow,143,0.979452
+2022,2,Unknown,green,59,0.002307
+2022,2,Unknown,yellow,25511,0.997693
+2022,3,Bronx,green,1649,0.324223
+2022,3,Bronx,yellow,3437,0.675777
+2022,3,Brooklyn,green,11141,0.33856
+2022,3,Brooklyn,yellow,21766,0.66144
+2022,3,EWR,green,2,0.013072
+2022,3,EWR,yellow,151,0.986928
+2022,3,Manhattan,green,44690,0.013619
+2022,3,Manhattan,yellow,3236661,0.986381
+2022,3,N/A,green,37,0.004274
+2022,3,N/A,yellow,8621,0.995726
+2022,3,Queens,green,16474,0.055567
+2022,3,Queens,yellow,279996,0.944433
+2022,3,Staten Island,green,6,0.037975
+2022,3,Staten Island,yellow,152,0.962025
+2022,3,Unknown,green,49,0.001397
+2022,3,Unknown,yellow,35038,0.998603
+2022,4,Bronx,green,1535,0.318399
+2022,4,Bronx,yellow,3286,0.681601
+2022,4,Brooklyn,green,10677,0.284318
+2022,4,Brooklyn,yellow,26876,0.715682
+2022,4,EWR,yellow,213,1.0
+2022,4,Manhattan,green,43576,0.013432
+2022,4,Manhattan,yellow,3200731,0.986568
+2022,4,N/A,green,59,0.007269
+2022,4,N/A,yellow,8058,0.992731
+2022,4,Queens,green,16205,0.054286
+2022,4,Queens,yellow,282304,0.945714
+2022,4,Staten Island,green,4,0.020408
+2022,4,Staten Island,yellow,192,0.979592
+2022,4,Unknown,green,51,0.001389
+2022,4,Unknown,yellow,36654,0.998611
+2022,5,Bronx,green,1543,0.326907
+2022,5,Bronx,yellow,3177,0.673093
+2022,5,Brooklyn,green,11500,0.287975
+2022,5,Brooklyn,yellow,28434,0.712025
+2022,5,EWR,green,1,0.003663
+2022,5,EWR,yellow,272,0.996337
+2022,5,Manhattan,green,42354,0.013238
+2022,5,Manhattan,yellow,3157179,0.986762
+2022,5,N/A,green,65,0.009392
+2022,5,N/A,yellow,6856,0.990608
+2022,5,Queens,green,16730,0.051622
+2022,5,Queens,yellow,307354,0.948378
+2022,5,Staten Island,green,12,0.064171
+2022,5,Staten Island,yellow,175,0.935829
+2022,5,Unknown,green,52,0.001384
+2022,5,Unknown,yellow,37524,0.998616
+2022,6,Bronx,green,1670,0.320845
+2022,6,Bronx,yellow,3535,0.679155
+2022,6,Brooklyn,green,10874,0.291161
+2022,6,Brooklyn,yellow,26473,0.708839
+2022,6,EWR,green,1,0.003759
+2022,6,EWR,yellow,265,0.996241
+2022,6,Manhattan,green,40384,0.012705
+2022,6,Manhattan,yellow,3138243,0.987295
+2022,6,N/A,green,55,0.008033
+2022,6,N/A,yellow,6792,0.991967
+2022,6,Queens,green,15751,0.050769
+2022,6,Queens,yellow,294500,0.949231
+2022,6,Staten Island,green,6,0.029851
+2022,6,Staten Island,yellow,195,0.970149
+2022,6,Unknown,green,55,0.001583
+2022,6,Unknown,yellow,34692,0.998417
+2022,7,Bronx,green,1307,0.285371
+2022,7,Bronx,yellow,3273,0.714629
+2022,7,Brooklyn,green,9555,0.313166
+2022,7,Brooklyn,yellow,20956,0.686834
+2022,7,EWR,yellow,189,1.0
+2022,7,Manhattan,green,35099,0.012463
+2022,7,Manhattan,yellow,2781169,0.987537
+2022,7,N/A,green,34,0.005422
+2022,7,N/A,yellow,6237,0.994578
+2022,7,Queens,green,13617,0.046664
+2022,7,Queens,yellow,278193,0.953336
+2022,7,Staten Island,green,12,0.052402
+2022,7,Staten Island,yellow,217,0.947598
+2022,7,Unknown,green,82,0.002165
+2022,7,Unknown,yellow,37797,0.997835
+2022,8,Bronx,green,1328,0.284856
+2022,8,Bronx,yellow,3334,0.715144
+2022,8,Brooklyn,green,9093,0.311756
+2022,8,Brooklyn,yellow,20074,0.688244
+2022,8,EWR,green,2,0.00995
+2022,8,EWR,yellow,199,0.99005
+2022,8,Manhattan,green,36537,0.01316
+2022,8,Manhattan,yellow,2739935,0.98684
+2022,8,N/A,green,54,0.011729
+2022,8,N/A,yellow,4550,0.988271
+2022,8,Queens,green,14158,0.046023
+2022,8,Queens,yellow,293472,0.953977
+2022,8,Staten Island,green,9,0.045226
+2022,8,Staten Island,yellow,190,0.954774
+2022,8,Unknown,green,73,0.001762
+2022,8,Unknown,yellow,41355,0.998238
+2022,9,Bronx,green,1396,0.286889
+2022,9,Bronx,yellow,3470,0.713111
+2022,9,Brooklyn,green,9110,0.282341
+2022,9,Brooklyn,yellow,23156,0.717659
+2022,9,EWR,green,2,0.008439
+2022,9,EWR,yellow,235,0.991561
+2022,9,Manhattan,green,38197,0.013603
+2022,9,Manhattan,yellow,2769688,0.986397
+2022,9,N/A,green,42,0.055336
+2022,9,N/A,yellow,717,0.944664
+2022,9,Queens,green,15813,0.051644
+2022,9,Queens,yellow,290379,0.948356
+2022,9,Staten Island,green,7,0.035
+2022,9,Staten Island,yellow,193,0.965
+2022,9,Unknown,green,98,0.002261
+2022,9,Unknown,yellow,43237,0.997739
+2022,10,Bronx,green,1361,0.290378
+2022,10,Bronx,yellow,3326,0.709622
+2022,10,Brooklyn,green,10061,0.282795
+2022,10,Brooklyn,yellow,25516,0.717205
+2022,10,EWR,green,8,0.030303
+2022,10,EWR,yellow,256,0.969697
+2022,10,Manhattan,green,39811,0.012242
+2022,10,Manhattan,yellow,3212068,0.987758
+2022,10,N/A,green,71,0.011457
+2022,10,N/A,yellow,6126,0.988543
+2022,10,Queens,green,13886,0.041743
+2022,10,Queens,yellow,318765,0.958257
+2022,10,Staten Island,green,2,0.009709
+2022,10,Staten Island,yellow,204,0.990291
+2022,10,Unknown,green,91,0.001968
+2022,10,Unknown,yellow,46149,0.998032
+2022,11,Bronx,green,1087,0.283442
+2022,11,Bronx,yellow,2748,0.716558
+2022,11,Brooklyn,green,8227,0.297293
+2022,11,Brooklyn,yellow,19446,0.702707
+2022,11,EWR,green,3,0.015625
+2022,11,EWR,yellow,189,0.984375
+2022,11,Manhattan,green,36264,0.01263
+2022,11,Manhattan,yellow,2834910,0.98737
+2022,11,N/A,green,45,0.008507
+2022,11,N/A,yellow,5245,0.991493
+2022,11,Queens,green,13231,0.044418
+2022,11,Queens,yellow,284642,0.955582
+2022,11,Staten Island,green,5,0.026596
+2022,11,Staten Island,yellow,183,0.973404
+2022,11,Unknown,green,57,0.001278
+2022,11,Unknown,yellow,44537,0.998722
+2022,12,Bronx,green,1142,0.237028
+2022,12,Bronx,yellow,3676,0.762972
+2022,12,Brooklyn,green,9666,0.313444
+2022,12,Brooklyn,yellow,21172,0.686556
+2022,12,EWR,yellow,197,1.0
+2022,12,Manhattan,green,40124,0.013368
+2022,12,Manhattan,yellow,2961277,0.986632
+2022,12,N/A,green,57,0.045418
+2022,12,N/A,yellow,1198,0.954582
+2022,12,Queens,green,17325,0.054612
+2022,12,Queens,yellow,299912,0.945388
+2022,12,Staten Island,green,9,0.031579
+2022,12,Staten Island,yellow,276,0.968421
+2022,12,Unknown,green,72,0.001483
+2022,12,Unknown,yellow,48473,0.998517
+2023,1,Bronx,green,894,0.221287
+2023,1,Bronx,yellow,3146,0.778713
+2023,1,Brooklyn,green,8491,0.346119
+2023,1,Brooklyn,yellow,16041,0.653881
+2023,1,EWR,yellow,76,1.0
+2023,1,Manhattan,green,38672,0.014195
+2023,1,Manhattan,yellow,2685758,0.985805
+2023,1,N/A,green,24,0.046332
+2023,1,N/A,yellow,494,0.953668
+2023,1,Queens,green,16679,0.056962
+2023,1,Queens,yellow,276132,0.943038
+2023,1,Staten Island,green,9,0.032727
+2023,1,Staten Island,yellow,266,0.967273
+2023,1,Unknown,green,31,0.000804
+2023,1,Unknown,yellow,38543,0.999196
+2023,2,Bronx,green,924,0.225476
+2023,2,Bronx,yellow,3174,0.774524
+2023,2,Brooklyn,green,8238,0.3363
+2023,2,Brooklyn,yellow,16258,0.6637
+2023,2,EWR,green,2,0.029412
+2023,2,EWR,yellow,66,0.970588
+2023,2,Manhattan,green,36913,0.014116
+2023,2,Manhattan,yellow,2578037,0.985884
+2023,2,N/A,green,37,0.021562
+2023,2,N/A,yellow,1679,0.978438
+2023,2,Queens,green,15743,0.061579
+2023,2,Queens,yellow,239911,0.938421
+2023,2,Staten Island,green,1,0.005128
+2023,2,Staten Island,yellow,194,0.994872
+2023,2,Unknown,green,32,0.000966
+2023,2,Unknown,yellow,33103,0.999034
+2023,3,Bronx,green,1242,0.216414
+2023,3,Bronx,yellow,4497,0.783586
+2023,3,Brooklyn,green,8927,0.310677
+2023,3,Brooklyn,yellow,19807,0.689323
+2023,3,EWR,green,5,0.052632
+2023,3,EWR,yellow,90,0.947368
+2023,3,Manhattan,green,41512,0.01372
+2023,3,Manhattan,yellow,2984210,0.98628
+2023,3,N/A,green,28,0.011249
+2023,3,N/A,yellow,2461,0.988751
+2023,3,Queens,green,16831,0.050734
+2023,3,Queens,yellow,314918,0.949266
+2023,3,Staten Island,green,2,0.008929
+2023,3,Staten Island,yellow,222,0.991071
+2023,3,Unknown,green,28,0.000982
+2023,3,Unknown,yellow,28485,0.999018
+2023,4,Bronx,green,1144,0.220509
+2023,4,Bronx,yellow,4044,0.779491
+2023,4,Brooklyn,green,7935,0.264986
+2023,4,Brooklyn,yellow,22010,0.735014
+2023,4,EWR,green,4,0.053333
+2023,4,EWR,yellow,71,0.946667
+2023,4,Manhattan,green,37464,0.012862
+2023,4,Manhattan,yellow,2875366,0.987138
+2023,4,N/A,green,34,0.032914
+2023,4,N/A,yellow,999,0.967086
+2023,4,Queens,green,15623,0.047445
+2023,4,Queens,yellow,313661,0.952555
+2023,4,Staten Island,green,5,0.02
+2023,4,Staten Island,yellow,245,0.98
+2023,4,Unknown,green,30,0.000964
+2023,4,Unknown,yellow,31099,0.999036
+2023,5,Bronx,green,1128,0.20339
+2023,5,Bronx,yellow,4418,0.79661
+2023,5,Brooklyn,green,8418,0.255975
+2023,5,Brooklyn,yellow,24468,0.744025
+2023,5,EWR,green,3,0.026786
+2023,5,EWR,yellow,109,0.973214
+2023,5,Manhattan,green,39781,0.012817
+2023,5,Manhattan,yellow,3063955,0.987183
+2023,5,N/A,green,31,0.028233
+2023,5,N/A,yellow,1067,0.971767
+2023,5,Queens,green,16278,0.045809
+2023,5,Queens,yellow,339066,0.954191
+2023,5,Staten Island,green,10,0.04
+2023,5,Staten Island,yellow,240,0.96
+2023,5,Unknown,green,34,0.001034
+2023,5,Unknown,yellow,32863,0.998966
+2023,6,Bronx,green,1166,0.225663
+2023,6,Bronx,yellow,4001,0.774337
+2023,6,Brooklyn,green,8945,0.279052
+2023,6,Brooklyn,yellow,23110,0.720948
+2023,6,EWR,yellow,127,1.0
+2023,6,Manhattan,green,35501,0.012205
+2023,6,Manhattan,yellow,2873299,0.987795
+2023,6,N/A,green,37,0.021688
+2023,6,N/A,yellow,1669,0.978312
+2023,6,Queens,green,16413,0.047746
+2023,6,Queens,yellow,327340,0.952254
+2023,6,Staten Island,green,7,0.029661
+2023,6,Staten Island,yellow,229,0.970339
+2023,6,Unknown,green,44,0.00149
+2023,6,Unknown,yellow,29489,0.99851
+2023,7,Bronx,green,1200,0.22409
+2023,7,Bronx,yellow,4155,0.77591
+2023,7,Brooklyn,green,8732,0.316159
+2023,7,Brooklyn,yellow,18887,0.683841
+2023,7,EWR,green,1,0.00813
+2023,7,EWR,yellow,122,0.99187
+2023,7,Manhattan,green,32508,0.012828
+2023,7,Manhattan,yellow,2501656,0.987172
+2023,7,N/A,green,30,0.022796
+2023,7,N/A,yellow,1286,0.977204
+2023,7,Queens,green,15390,0.048077
+2023,7,Queens,yellow,304721,0.951923
+2023,7,Staten Island,green,10,0.054945
+2023,7,Staten Island,yellow,172,0.945055
+2023,7,Unknown,green,50,0.001928
+2023,7,Unknown,yellow,25885,0.998072
+2023,8,Bronx,green,1052,0.173971
+2023,8,Bronx,yellow,4995,0.826029
+2023,8,Brooklyn,green,8283,0.293609
+2023,8,Brooklyn,yellow,19928,0.706391
+2023,8,EWR,green,4,0.059701
+2023,8,EWR,yellow,63,0.940299
+2023,8,Manhattan,green,32172,0.013154
+2023,8,Manhattan,yellow,2413635,0.986846
+2023,8,N/A,green,35,0.02834
+2023,8,N/A,yellow,1200,0.97166
+2023,8,Queens,green,15660,0.048988
+2023,8,Queens,yellow,304011,0.951012
+2023,8,Staten Island,green,8,0.073394
+2023,8,Staten Island,yellow,101,0.926606
+2023,8,Unknown,green,61,0.00271
+2023,8,Unknown,yellow,22452,0.99729
+2023,9,Bronx,green,989,0.186217
+2023,9,Bronx,yellow,4322,0.813783
+2023,9,Brooklyn,green,8555,0.29308
+2023,9,Brooklyn,yellow,20635,0.70692
+2023,9,EWR,yellow,77,1.0
+2023,9,Manhattan,green,34310,0.014021
+2023,9,Manhattan,yellow,2412675,0.985979
+2023,9,N/A,green,29,0.020055
+2023,9,N/A,yellow,1417,0.979945
+2023,9,Queens,green,18297,0.060101
+2023,9,Queens,yellow,286141,0.939899
+2023,9,Staten Island,yellow,59,1.0
+2023,9,Unknown,green,51,0.002265
+2023,9,Unknown,yellow,22462,0.997735
+2023,10,Bronx,green,733,0.128304
+2023,10,Bronx,yellow,4980,0.871696
+2023,10,Brooklyn,green,8641,0.272527
+2023,10,Brooklyn,yellow,23066,0.727473
+2023,10,EWR,green,1,0.010417
+2023,10,EWR,yellow,95,0.989583
+2023,10,Manhattan,green,37017,0.012126
+2023,10,Manhattan,yellow,3015636,0.987874
+2023,10,N/A,green,42,0.034711
+2023,10,N/A,yellow,1168,0.965289
+2023,10,Queens,green,15973,0.04608
+2023,10,Queens,yellow,330660,0.95392
+2023,10,Staten Island,green,7,0.170732
+2023,10,Staten Island,yellow,34,0.829268
+2023,10,Unknown,green,34,0.001381
+2023,10,Unknown,yellow,24585,0.998619
+2023,11,Bronx,green,792,0.141151
+2023,11,Bronx,yellow,4819,0.858849
+2023,11,Brooklyn,green,7905,0.29367
+2023,11,Brooklyn,yellow,19013,0.70633
+2023,11,EWR,yellow,79,1.0
+2023,11,Manhattan,green,36118,0.012369
+2023,11,Manhattan,yellow,2883996,0.987631
+2023,11,N/A,green,46,0.043112
+2023,11,N/A,yellow,1021,0.956888
+2023,11,Queens,green,15731,0.048975
+2023,11,Queens,yellow,305475,0.951025
+2023,11,Staten Island,green,11,0.229167
+2023,11,Staten Island,yellow,37,0.770833
+2023,11,Unknown,green,31,0.001431
+2023,11,Unknown,yellow,21627,0.998569
+2023,12,Bronx,green,856,0.130488
+2023,12,Bronx,yellow,5704,0.869512
+2023,12,Brooklyn,green,8715,0.258146
+2023,12,Brooklyn,yellow,25045,0.741854
+2023,12,EWR,yellow,102,1.0
+2023,12,Manhattan,green,35298,0.011733
+2023,12,Manhattan,yellow,2973182,0.988267
+2023,12,N/A,green,29,0.026654
+2023,12,N/A,yellow,1059,0.973346
+2023,12,Queens,green,15936,0.052922
+2023,12,Queens,yellow,285186,0.947078
+2023,12,Staten Island,green,3,0.056604
+2023,12,Staten Island,yellow,50,0.943396
+2023,12,Unknown,green,37,0.002947
+2023,12,Unknown,yellow,12520,0.997053
+2024,1,Bronx,green,624,0.097348
+2024,1,Bronx,yellow,5786,0.902652
+2024,1,Brooklyn,green,6937,0.23544
+2024,1,Brooklyn,yellow,22527,0.76456
+2024,1,EWR,yellow,50,1.0
+2024,1,Manhattan,green,32256,0.012244
+2024,1,Manhattan,yellow,2602160,0.987756
+2024,1,N/A,green,18,0.023107
+2024,1,N/A,yellow,761,0.976893
+2024,1,Queens,green,13719,0.049588
+2024,1,Queens,yellow,262940,0.950412
+2024,1,Staten Island,green,4,0.074074
+2024,1,Staten Island,yellow,50,0.925926
+2024,1,Unknown,green,55,0.005649
+2024,1,Unknown,yellow,9682,0.994351
+2024,2,Bronx,green,521,0.081559
+2024,2,Bronx,yellow,5867,0.918441
+2024,2,Brooklyn,green,6907,0.2155
+2024,2,Brooklyn,yellow,25144,0.7845
+2024,2,EWR,yellow,54,1.0
+2024,2,Manhattan,green,30698,0.011423
+2024,2,Manhattan,yellow,2656768,0.988577
+2024,2,N/A,green,26,0.044218
+2024,2,N/A,yellow,562,0.955782
+2024,2,Queens,green,12499,0.049203
+2024,2,Queens,yellow,241528,0.950797
+2024,2,Staten Island,green,1,0.019608
+2024,2,Staten Island,yellow,50,0.980392
+2024,2,Unknown,green,46,0.005048
+2024,2,Unknown,yellow,9067,0.994952
+2024,3,Bronx,green,525,0.051699
+2024,3,Bronx,yellow,9630,0.948301
+2024,3,Brooklyn,green,7456,0.155765
+2024,3,Brooklyn,yellow,40411,0.844235
+2024,3,EWR,yellow,83,1.0
+2024,3,Manhattan,green,32012,0.010124
+2024,3,Manhattan,yellow,3129900,0.989876
+2024,3,N/A,green,14,0.013195
+2024,3,N/A,yellow,1047,0.986805
+2024,3,Queens,green,14340,0.045154
+2024,3,Queens,yellow,303237,0.954846
+2024,3,Staten Island,green,2,0.021978
+2024,3,Staten Island,yellow,89,0.978022
+2024,3,Unknown,green,53,0.00491
+2024,3,Unknown,yellow,10741,0.99509
+2024,4,Bronx,green,512,0.048389
+2024,4,Bronx,yellow,10069,0.951611
+2024,4,Brooklyn,green,6680,0.132988
+2024,4,Brooklyn,yellow,43550,0.867012
+2024,4,EWR,yellow,98,1.0
+2024,4,Manhattan,green,33019,0.010549
+2024,4,Manhattan,yellow,3096917,0.989451
+2024,4,N/A,green,16,0.016931
+2024,4,N/A,yellow,929,0.983069
+2024,4,Queens,green,12975,0.040637
+2024,4,Queens,yellow,306314,0.959363
+2024,4,Staten Island,green,2,0.021053
+2024,4,Staten Island,yellow,93,0.978947
+2024,4,Unknown,green,40,0.003927
+2024,4,Unknown,yellow,10146,0.996073
+2024,5,Bronx,green,620,0.052851
+2024,5,Bronx,yellow,11111,0.947149
+2024,5,Brooklyn,green,7696,0.129438
+2024,5,Brooklyn,yellow,51761,0.870562
+2024,5,EWR,yellow,129,1.0
+2024,5,Manhattan,green,35157,0.010661
+2024,5,Manhattan,yellow,3262676,0.989339
+2024,5,N/A,green,17,0.017068
+2024,5,N/A,yellow,979,0.982932
+2024,5,Queens,green,14321,0.040895
+2024,5,Queens,yellow,335871,0.959105
+2024,5,Staten Island,green,4,0.025316
+2024,5,Staten Island,yellow,154,0.974684
+2024,5,Unknown,green,43,0.003901
+2024,5,Unknown,yellow,10981,0.996099
+2024,6,Bronx,green,663,0.059951
+2024,6,Bronx,yellow,10396,0.940049
+2024,6,Brooklyn,green,7257,0.117194
+2024,6,Brooklyn,yellow,54666,0.882806
+2024,6,EWR,yellow,97,1.0
+2024,6,Manhattan,green,31678,0.010145
+2024,6,Manhattan,yellow,3090838,0.989855
+2024,6,N/A,green,21,0.028571
+2024,6,N/A,yellow,714,0.971429
+2024,6,Queens,green,12318,0.037271
+2024,6,Queens,yellow,318180,0.962729
+2024,6,Staten Island,green,1,0.007463
+2024,6,Staten Island,yellow,133,0.992537
+2024,6,Unknown,green,38,0.003516
+2024,6,Unknown,yellow,10769,0.996484
+2024,7,Bronx,green,636,0.067739
+2024,7,Bronx,yellow,8753,0.932261
+2024,7,Brooklyn,green,6578,0.132929
+2024,7,Brooklyn,yellow,42907,0.867071
+2024,7,EWR,green,2,0.019417
+2024,7,EWR,yellow,101,0.980583
+2024,7,Manhattan,green,30185,0.011275
+2024,7,Manhattan,yellow,2647071,0.988725
+2024,7,N/A,green,25,0.031133
+2024,7,N/A,yellow,778,0.968867
+2024,7,Queens,green,11350,0.034271
+2024,7,Queens,yellow,319836,0.965729
+2024,7,Staten Island,green,1,0.008547
+2024,7,Staten Island,yellow,116,0.991453
+2024,7,Unknown,green,40,0.004482
+2024,7,Unknown,yellow,8885,0.995518
+2024,8,Bronx,green,542,0.056364
+2024,8,Bronx,yellow,9074,0.943636
+2024,8,Brooklyn,green,6716,0.133873
+2024,8,Brooklyn,yellow,43451,0.866127
+2024,8,EWR,yellow,136,1.0
+2024,8,Manhattan,green,28521,0.011133
+2024,8,Manhattan,yellow,2533349,0.988867
+2024,8,N/A,green,21,0.025547
+2024,8,N/A,yellow,801,0.974453
+2024,8,Queens,green,13163,0.038723
+2024,8,Queens,yellow,326760,0.961277
+2024,8,Staten Island,green,3,0.021583
+2024,8,Staten Island,yellow,136,0.978417
+2024,8,Unknown,green,53,0.006888
+2024,8,Unknown,yellow,7641,0.993112
+2024,9,Bronx,green,738,0.063369
+2024,9,Bronx,yellow,10908,0.936631
+2024,9,Brooklyn,green,6655,0.097465
+2024,9,Brooklyn,yellow,61626,0.902535
+2024,9,EWR,yellow,126,1.0
+2024,9,Manhattan,green,30175,0.009586
+2024,9,Manhattan,yellow,3117512,0.990414
+2024,9,N/A,green,28,0.030973
+2024,9,N/A,yellow,876,0.969027
+2024,9,Queens,green,13962,0.038219
+2024,9,Queens,yellow,351356,0.961781
+2024,9,Staten Island,yellow,204,1.0
+2024,9,Unknown,green,51,0.005756
+2024,9,Unknown,yellow,8809,0.994244
+2024,10,Bronx,green,743,0.061238
+2024,10,Bronx,yellow,11390,0.938762
+2024,10,Brooklyn,green,7333,0.112887
+2024,10,Brooklyn,yellow,57626,0.887113
+2024,10,EWR,yellow,124,1.0
+2024,10,Manhattan,green,32818,0.009802
+2024,10,Manhattan,yellow,3315212,0.990198
+2024,10,N/A,green,18,0.021226
+2024,10,N/A,yellow,830,0.978774
+2024,10,Queens,green,12540,0.033958
+2024,10,Queens,yellow,356735,0.966042
+2024,10,Staten Island,green,2,0.010204
+2024,10,Staten Island,yellow,194,0.989796
+2024,10,Unknown,green,50,0.005205
+2024,10,Unknown,yellow,9556,0.994795
+2024,11,Bronx,green,411,0.033975
+2024,11,Bronx,yellow,11686,0.966025
+2024,11,Brooklyn,green,7143,0.103278
+2024,11,Brooklyn,yellow,62020,0.896722
+2024,11,EWR,yellow,116,1.0
+2024,11,Manhattan,green,30872,0.009615
+2024,11,Manhattan,yellow,3179955,0.990385
+2024,11,N/A,green,31,0.041723
+2024,11,N/A,yellow,712,0.958277
+2024,11,Queens,green,10933,0.033751
+2024,11,Queens,yellow,312994,0.966249
+2024,11,Staten Island,green,5,0.027174
+2024,11,Staten Island,yellow,179,0.972826
+2024,11,Unknown,green,30,0.003326
+2024,11,Unknown,yellow,8989,0.996674
+2024,12,Bronx,green,373,0.034617
+2024,12,Bronx,yellow,10402,0.965383
+2024,12,Brooklyn,green,6861,0.107053
+2024,12,Brooklyn,yellow,57229,0.892947
+2024,12,EWR,yellow,154,1.0
+2024,12,Manhattan,green,31689,0.009822
+2024,12,Manhattan,yellow,3194756,0.990178
+2024,12,N/A,green,30,0.033076
+2024,12,N/A,yellow,877,0.966924
+2024,12,Queens,green,11968,0.036068
+2024,12,Queens,yellow,319852,0.963932
+2024,12,Staten Island,yellow,147,1.0
+2024,12,Unknown,green,27,0.002945
+2024,12,Unknown,yellow,9141,0.997055
+2025,1,Bronx,green,312,0.022353
+2025,1,Bronx,yellow,13646,0.977647
+2025,1,Brooklyn,green,6003,0.089096
+2025,1,Brooklyn,yellow,61374,0.910904
+2025,1,EWR,yellow,78,1.0
+2025,1,Manhattan,green,29443,0.009668
+2025,1,Manhattan,yellow,3016079,0.990332
+2025,1,N/A,green,13,0.021559
+2025,1,N/A,yellow,590,0.978441
+2025,1,Queens,green,9811,0.033366
+2025,1,Queens,yellow,284235,0.966634
+2025,1,Staten Island,green,3,0.012712
+2025,1,Staten Island,yellow,233,0.987288
+2025,1,Unknown,green,38,0.004896
+2025,1,Unknown,yellow,7723,0.995104
+2025,2,Bronx,green,477,0.023192
+2025,2,Bronx,yellow,20090,0.976808
+2025,2,Brooklyn,green,5927,0.061462
+2025,2,Brooklyn,yellow,90506,0.938538
+2025,2,EWR,yellow,76,1.0
+2025,2,Manhattan,green,28367,0.00913
+2025,2,Manhattan,yellow,3078634,0.99087
+2025,2,N/A,green,10,0.019157
+2025,2,N/A,yellow,512,0.980843
+2025,2,Queens,green,9369,0.032352
+2025,2,Queens,yellow,280229,0.967648
+2025,2,Staten Island,green,3,0.010638
+2025,2,Staten Island,yellow,279,0.989362
+2025,2,Unknown,green,51,0.007166
+2025,2,Unknown,yellow,7066,0.992834
+2025,3,Bronx,green,621,0.018791
+2025,3,Bronx,yellow,32427,0.981209
+2025,3,Brooklyn,green,6762,0.048109
+2025,3,Brooklyn,yellow,133795,0.951891
+2025,3,EWR,yellow,60,1.0
+2025,3,Manhattan,green,30020,0.008501
+2025,3,Manhattan,yellow,3501336,0.991499
+2025,3,N/A,green,23,0.033724
+2025,3,N/A,yellow,659,0.966276
+2025,3,Queens,green,11246,0.029872
+2025,3,Queens,yellow,365223,0.970128
+2025,3,Staten Island,green,3,0.007426
+2025,3,Staten Island,yellow,401,0.992574
+2025,3,Unknown,green,60,0.008287
+2025,3,Unknown,yellow,7180,0.991713
+2025,4,Bronx,green,723,0.024889
+2025,4,Bronx,yellow,28326,0.975111
+2025,4,Brooklyn,green,6423,0.051097
+2025,4,Brooklyn,yellow,119280,0.948903
+2025,4,EWR,yellow,93,1.0
+2025,4,Manhattan,green,31163,0.009155
+2025,4,Manhattan,yellow,3372879,0.990845
+2025,4,N/A,green,18,0.024161
+2025,4,N/A,yellow,727,0.975839
+2025,4,Queens,green,10814,0.029958
+2025,4,Queens,yellow,350164,0.970042
+2025,4,Staten Island,green,2,0.006536
+2025,4,Staten Island,yellow,304,0.993464
+2025,4,Unknown,green,34,0.00493
+2025,4,Unknown,yellow,6862,0.99507
+2025,5,Bronx,green,878,0.023425
+2025,5,Bronx,yellow,36603,0.976575
+2025,5,Brooklyn,green,7340,0.041223
+2025,5,Brooklyn,yellow,170717,0.958777
+2025,5,EWR,yellow,112,1.0
+2025,5,Manhattan,green,32724,0.00855
+2025,5,Manhattan,yellow,3794773,0.99145
+2025,5,N/A,green,26,0.027897
+2025,5,N/A,yellow,906,0.972103
+2025,5,Queens,green,11539,0.025587
+2025,5,Queens,yellow,439439,0.974413
+2025,5,Staten Island,green,7,0.014737
+2025,5,Staten Island,yellow,468,0.985263
+2025,5,Unknown,green,52,0.007283
+2025,5,Unknown,yellow,7088,0.992717
+2025,6,Bronx,green,1020,0.029073
+2025,6,Bronx,yellow,34064,0.970927
+2025,6,Brooklyn,green,7146,0.038527
+2025,6,Brooklyn,yellow,178332,0.961473
+2025,6,EWR,yellow,88,1.0
+2025,6,Manhattan,green,28752,0.008049
+2025,6,Manhattan,yellow,3543302,0.991951
+2025,6,N/A,green,15,0.017026
+2025,6,N/A,yellow,866,0.982974
+2025,6,Queens,green,10564,0.024293
+2025,6,Queens,yellow,424302,0.975707
+2025,6,Staten Island,green,5,0.011086
+2025,6,Staten Island,yellow,446,0.988914
+2025,6,Unknown,green,39,0.006322
+2025,6,Unknown,yellow,6130,0.993678
+2025,7,Bronx,green,1159,0.03396
+2025,7,Bronx,yellow,32969,0.96604
+2025,7,Brooklyn,green,6793,0.040892
+2025,7,Brooklyn,yellow,159326,0.959108
+2025,7,EWR,yellow,96,1.0
+2025,7,Manhattan,green,28196,0.008803
+2025,7,Manhattan,yellow,3174774,0.991197
+2025,7,N/A,green,17,0.016457
+2025,7,N/A,yellow,1016,0.983543
+2025,7,Queens,green,10422,0.025358
+2025,7,Queens,yellow,400569,0.974642
+2025,7,Staten Island,green,8,0.02381
+2025,7,Staten Island,yellow,328,0.97619
+2025,7,Unknown,green,44,0.007683
+2025,7,Unknown,yellow,5683,0.992317
+2025,8,Bronx,green,1169,0.036754
+2025,8,Bronx,yellow,30637,0.963246
+2025,8,Brooklyn,green,6945,0.041906
+2025,8,Brooklyn,yellow,158785,0.958094
+2025,8,EWR,green,1,0.007937
+2025,8,EWR,yellow,125,0.992063
+2025,8,Manhattan,green,24941,0.008602
+2025,8,Manhattan,yellow,2874340,0.991398
+2025,8,N/A,green,28,0.029016
+2025,8,N/A,yellow,937,0.970984
+2025,8,Queens,green,11652,0.028422
+2025,8,Queens,yellow,398316,0.971578
+2025,8,Staten Island,yellow,318,1.0
+2025,8,Unknown,green,52,0.01035
+2025,8,Unknown,yellow,4972,0.98965

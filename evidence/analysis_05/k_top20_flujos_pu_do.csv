@@ -1,21 +1,21 @@
 PU_BOROUGH,PU_ZONE,DO_BOROUGH,DO_ZONE,TRIPS,AVG_TICKET
-Unknown,N/A,Unknown,N/A,201177,14.648941479393766
-Manhattan,Upper East Side South,Manhattan,Upper East Side North,59309,8.01710836466641
-Manhattan,Upper East Side North,Manhattan,Upper East Side North,53781,6.7624112604823265
-Manhattan,Upper East Side North,Manhattan,Upper East Side South,51693,8.877372951850347
-Manhattan,Upper East Side South,Manhattan,Upper East Side South,46274,7.0165559493452045
-Manhattan,Upper West Side South,Manhattan,Lincoln Square East,32222,7.580802246912048
-Manhattan,Upper West Side South,Manhattan,Upper West Side North,31695,7.113044644265655
-Manhattan,East Village,Manhattan,East Village,30130,7.1618576169930295
-Manhattan,Lincoln Square East,Manhattan,Upper West Side South,29466,7.9113615692662735
-Manhattan,Upper West Side North,Manhattan,Upper West Side South,28014,7.042250303419718
-Manhattan,Upper East Side South,Manhattan,Midtown East,27510,8.471698291530354
-Manhattan,Upper East Side South,Manhattan,Midtown Center,27501,9.445753245336533
-Manhattan,Times Sq/Theatre District,Manhattan,Penn Station/Madison Sq West,26529,8.196089562365714
-Queens,Astoria,Queens,Astoria,26117,7.244925910326606
-Manhattan,Lenox Hill West,Manhattan,Upper East Side North,25692,8.104892962789974
-Manhattan,Penn Station/Madison Sq West,Manhattan,Times Sq/Theatre District,25593,9.539303325127966
-Manhattan,Penn Station/Madison Sq West,Manhattan,Midtown Center,24721,10.312880142389062
-Manhattan,Clinton East,Manhattan,Clinton East,24396,7.311851942941466
-Manhattan,Gramercy,Manhattan,Murray Hill,24159,8.567595099134898
-Manhattan,Union Sq,Manhattan,Murray Hill,24081,9.106417092313443
+Unknown,N/A,Unknown,N/A,7271218,16.72171838610808
+Manhattan,Upper East Side South,Manhattan,Upper East Side North,4472024,10.302844707452374
+Manhattan,Upper East Side North,Manhattan,Upper East Side South,3819850,11.105609285704936
+Manhattan,Upper East Side North,Manhattan,Upper East Side North,3496219,8.365502833203527
+Manhattan,Upper East Side South,Manhattan,Upper East Side South,3339073,8.890422515470613
+Manhattan,Upper West Side South,Manhattan,Upper West Side North,1999736,8.874631796397123
+Manhattan,Upper West Side South,Manhattan,Lincoln Square East,1984510,9.413187340955702
+Manhattan,Upper East Side South,Manhattan,Midtown Center,1918068,12.084961534210468
+Manhattan,Upper East Side South,Manhattan,Midtown East,1913537,10.672390019111205
+Manhattan,Lincoln Square East,Manhattan,Upper West Side South,1893690,9.868796497842837
+Manhattan,Midtown Center,Manhattan,Upper East Side South,1833561,11.701359485722046
+Manhattan,Upper West Side North,Manhattan,Upper West Side South,1726408,8.842627455387138
+Manhattan,Lenox Hill West,Manhattan,Upper East Side North,1699897,10.094815974144316
+Manhattan,Penn Station/Madison Sq West,Manhattan,Times Sq/Theatre District,1659819,12.441738424490865
+Manhattan,Penn Station/Madison Sq West,Manhattan,Midtown Center,1646907,13.100265497687484
+Manhattan,Times Sq/Theatre District,Manhattan,Penn Station/Madison Sq West,1530689,10.743364517547327
+Manhattan,Upper East Side South,Manhattan,Lenox Hill West,1524250,9.230760885681482
+Manhattan,Gramercy,Manhattan,Murray Hill,1504748,10.303042250263832
+Manhattan,Lenox Hill West,Manhattan,Upper East Side South,1469510,9.751972963777042
+Manhattan,Yorkville West,Manhattan,Upper East Side North,1466747,8.533616411010215
